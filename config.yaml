@@ -7,7 +7,7 @@ target:
     - Singapore
     - United States
     - United Kingdom
-    - Remote
+  exclude_remote: true
 
 categories:
   consulting:
@@ -81,6 +81,10 @@ exclude_terms:
   - vp
   - principal
   - managing director
+  - remote
+  - work from home
+  - work-from-home
+  - wfh
 
 settings:
   request_timeout_seconds: 20
