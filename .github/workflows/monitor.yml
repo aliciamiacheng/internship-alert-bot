@@ -14,8 +14,13 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: python monitor.py
-      - name: Email internship matches
+      - name: Scan internships
+        id: scan
+        run: |
+          python monitor.py
+          echo "new_matches=$(tr -d '\n' < new_matches_found.txt)" >> "$GITHUB_OUTPUT"
+      - name: Email new internship matches
+        if: steps.scan.outputs.new_matches == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -23,7 +28,7 @@ jobs:
           secure: true
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_APP_PASSWORD }}
-          subject: "Internship Alert Bot — latest scan"
+          subject: "New Summer 2027 Internship Matches"
           to: aliciamiacheng@gmail.com
           from: Internship Alert Bot
           body: file://latest_alert.md
