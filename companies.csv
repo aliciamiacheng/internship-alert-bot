@@ -1,0 +1,30 @@
+company,category,careers_url
+McKinsey,consulting,https://www.mckinsey.com/careers/search-jobs
+BCG,consulting,https://careers.bcg.com/global/en/search-results
+Bain,consulting,https://www.bain.com/careers/find-a-role/
+Deloitte,consulting,https://apply.deloitte.com/careers/SearchJobs
+Accenture,consulting,https://www.accenture.com/us-en/careers/jobsearch
+Goldman Sachs,markets_finance,https://higher.gs.com/
+JPMorgan,markets_finance,https://careers.jpmorgan.com/global/en/students/programs
+Morgan Stanley,markets_finance,https://www.morganstanley.com/people-opportunities/students-graduates
+PIMCO,markets_finance,https://www.pimco.com/us/en/about-us/careers
+BlackRock,markets_finance,https://careers.blackrock.com/
+Blackstone,strategy,https://www.blackstone.com/careers/students/
+Jane Street,hedge_fund,https://www.janestreet.com/join-jane-street/open-roles/
+Citadel,hedge_fund,https://www.citadel.com/careers/open-opportunities/
+Citadel Securities,hedge_fund,https://www.citadelsecurities.com/careers/open-opportunities/
+D. E. Shaw,hedge_fund,https://www.deshaw.com/careers
+Point72,hedge_fund,https://careers.point72.com/
+Two Sigma,hedge_fund,https://www.twosigma.com/careers/
+Bridgewater,hedge_fund,https://www.bridgewater.com/people-and-culture/careers
+Optiver,markets_finance,https://optiver.com/working-at-optiver/career-opportunities/
+IMC,markets_finance,https://www.imc.com/us/careers/jobs
+Google,product,https://www.google.com/about/careers/applications/jobs/results/
+Microsoft,product,https://jobs.careers.microsoft.com/global/en/search
+Amazon,product,https://www.amazon.jobs/en/search
+NVIDIA,ai,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+Anthropic,ai,https://www.anthropic.com/careers/jobs
+OpenAI,ai,https://openai.com/careers/search/
+Perplexity,ai,https://www.perplexity.ai/hub/careers
+Sequoia Capital,venture_capital,https://www.sequoiacap.com/jobs/
+Andreessen Horowitz,venture_capital,https://a16z.com/about/jobs/
