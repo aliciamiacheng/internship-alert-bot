@@ -1,0 +1,87 @@
+target:
+  internship_years: ["2027"]
+  locations:
+    - New York
+    - London
+    - Hong Kong
+    - Singapore
+    - United States
+    - United Kingdom
+    - Remote
+
+categories:
+  consulting:
+    - consulting
+    - business analyst
+    - associate consultant
+    - strategy consulting
+    - management consulting
+  product:
+    - product manager
+    - product management
+    - product strategy
+    - product operations
+    - product intern
+  markets_finance:
+    - global markets
+    - sales and trading
+    - sales & trading
+    - markets
+    - investment management
+    - asset management
+    - equity research
+    - fixed income
+    - credit
+  strategy:
+    - corporate strategy
+    - business strategy
+    - strategic finance
+    - business operations
+    - bizops
+    - growth strategy
+  ai:
+    - artificial intelligence
+    - machine learning
+    - applied ai
+    - ai product
+    - ai strategy
+    - generative ai
+  startups:
+    - founder's associate
+    - founders associate
+    - startup
+    - growth
+    - business operations
+    - generalist
+  venture_capital:
+    - venture capital
+    - investment intern
+    - investment analyst
+    - venture
+    - platform
+  hedge_fund:
+    - hedge fund
+    - investment research
+    - fundamental equities
+    - macro
+    - quantitative research
+    - quantitative trading
+
+internship_terms:
+  - intern
+  - internship
+  - summer analyst
+  - summer associate
+  - summer business analyst
+
+exclude_terms:
+  - senior
+  - director
+  - vice president
+  - vp
+  - principal
+  - managing director
+
+settings:
+  request_timeout_seconds: 20
+  max_seen_jobs: 5000
