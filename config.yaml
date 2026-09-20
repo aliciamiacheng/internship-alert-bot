@@ -1,5 +1,6 @@
 target:
   internship_years: ["2027"]
+  graduation_years: ["2028"]
   locations:
     - New York
     - London
@@ -17,7 +18,6 @@ categories:
     - strategy consulting
     - management consulting
   product:
-    - product manager
     - product management
     - product strategy
     - product operations
@@ -32,13 +32,18 @@ categories:
     - equity research
     - fixed income
     - credit
+    - equity derivatives
+    - structuring
   strategy:
     - corporate strategy
     - business strategy
+    - strategy and operations
+    - strategy & operations
     - strategic finance
     - business operations
     - bizops
     - growth strategy
+    - product strategy
   ai:
     - artificial intelligence
     - machine learning
@@ -66,21 +71,37 @@ categories:
     - macro
     - quantitative research
     - quantitative trading
+    - quantitative trader
+    - quant trader
+    - quant research
+    - trading intern
+    - trader intern
+    - systematic trading
+    - algorithmic trading
 
 internship_terms:
   - intern
   - internship
+  - summer intern
+  - summer internship
   - summer analyst
-  - summer associate
   - summer business analyst
+  - summer associate
 
 exclude_terms:
+  - manager
+  - senior manager
+  - lead
+  - team lead
+  - tech lead
   - senior
+  - staff
   - director
   - vice president
   - vp
   - principal
   - managing director
+  - head of
   - remote
   - work from home
   - work-from-home
