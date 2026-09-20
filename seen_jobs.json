@@ -1,1 +1,654 @@
-{}
+{
+  "00c18f1d563d445b4c8cd2d8": {
+    "categories": [
+      "markets_finance",
+      "startups",
+      "venture_capital"
+    ],
+    "company": "Coinbase",
+    "title": "Cryptocurrencies",
+    "url": "https://www.coinbase.com/explore"
+  },
+  "07685b102fe486e13b91ce1b": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Solutions Marketing Lead, Public Sector San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Washington, DC Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385586008"
+  },
+  "07920d5438fc4e9054f6d00d": {
+    "categories": [
+      "consulting"
+    ],
+    "company": "Altman Solon",
+    "title": "Careers",
+    "url": "https://www.altmansolon.com/careers"
+  },
+  "09223ca8bd0586b08073e735": {
+    "categories": [
+      "ai"
+    ],
+    "company": "OpenAI",
+    "title": "Apply now (opens in a new window)",
+    "url": "https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a/application"
+  },
+  "09bd9ed0cd7e0c0355f652e5": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Field Marketing Lead, Public Sector San Francisco, CA | Washington, DC Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5344577008"
+  },
+  "09ce947d7800789aaf937154": {
+    "categories": [
+      "product"
+    ],
+    "company": "Datadog",
+    "title": "General & Administrative 37 positions",
+    "url": "https://careers.datadoghq.com/general-and-administrative/"
+  },
+  "0b1f33af427abaf268c4f5ee": {
+    "categories": [
+      "consulting"
+    ],
+    "company": "Altman Solon",
+    "title": "Student Opportunities",
+    "url": "https://www.altmansolon.com/careers/student-opportunities"
+  },
+  "0f3a2a98bc185875352b2922": {
+    "categories": [
+      "ai"
+    ],
+    "company": "Coinbase",
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175441"
+  },
+  "102938e5909926743dd8f83e": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "T. Rowe Price",
+    "title": "Jobs Around the World",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePriceInternational/jobs"
+  },
+  "18c2e23c17d60513de3497b8": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Customer Programs Manager, Co-Marketing & Measurement San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008"
+  },
+  "256fada29be2c483c29fd7b2": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "MUFG",
+    "title": "Early Careers",
+    "url": "https://careers.mufgamericas.com/student-programs-overview"
+  },
+  "2aa7f725c8a3c506c2d2a6e2": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Product Marketing Manager, Knowledge Work - Core Products San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385651008"
+  },
+  "3416ec0bd4ce3ead77cb5d87": {
+    "categories": [
+      "product"
+    ],
+    "company": "Datadog",
+    "title": "Sales 162 positions",
+    "url": "https://careers.datadoghq.com/sales/"
+  },
+  "348e8e1bd03d0871727bb1ab": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Policy Communications San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5254582008"
+  },
+  "36b9fbc33ba98867c6a9949d": {
+    "categories": [
+      "ai",
+      "startups",
+      "venture_capital"
+    ],
+    "company": "Databricks",
+    "title": "Skip to main content",
+    "url": "https://www.databricks.com/company/careers/open-positions#main"
+  },
+  "3888a3fa1178368922385336": {
+    "categories": [
+      "ai",
+      "venture_capital"
+    ],
+    "company": "Cornerstone Research",
+    "title": "Practices",
+    "url": "https://www.cornerstone.com/careers/"
+  },
+  "3b17f648729eff9e78e3048b": {
+    "categories": [
+      "consulting",
+      "ai",
+      "venture_capital"
+    ],
+    "company": "Cornerstone Research",
+    "title": "Skip to content",
+    "url": "https://www.cornerstone.com/careers/#primary"
+  },
+  "3f082da57ebce1afad691a1e": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "Schroders",
+    "title": "Skip to content",
+    "url": "https://www.schroders.com/en/global/individual/careers/#main-content"
+  },
+  "471d620df7e0fe8e04af1e9c": {
+    "categories": [
+      "markets_finance",
+      "startups",
+      "venture_capital"
+    ],
+    "company": "TPG",
+    "title": "Skip to main content",
+    "url": "https://www.tpg.com/careers#content"
+  },
+  "4e6f2e4413d75e4ab9050112": {
+    "categories": [
+      "hedge_fund"
+    ],
+    "company": "Two Sigma",
+    "title": "current page Careers",
+    "url": "https://www.twosigma.com/careers/"
+  },
+  "4f51bff9e819beefd45de142": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "Wellington Management",
+    "title": "Diversity, Equity and Inclusion",
+    "url": "https://www.wellington.com/en-us/institutional/about-wellington/diversity-equity-and-inclusion"
+  },
+  "51104e1b0ecc135a8b536dba": {
+    "categories": [
+      "startups",
+      "venture_capital"
+    ],
+    "company": "Guidehouse",
+    "title": "Skip to Content",
+    "url": "https://careers.guidehouse.com/#main-content"
+  },
+  "5332d02d39786ea3891840ce": {
+    "categories": [
+      "product"
+    ],
+    "company": "Datadog",
+    "title": "Engineering 97 positions",
+    "url": "https://careers.datadoghq.com/engineering/"
+  },
+  "5b8c19fe7d5536ab599b3769": {
+    "categories": [
+      "markets_finance",
+      "startups"
+    ],
+    "company": "MUFG",
+    "title": "Skip to main content",
+    "url": "https://careers.mufgamericas.com/#main-content"
+  },
+  "5d71b66139b07766b20e641f": {
+    "categories": [
+      "ai"
+    ],
+    "company": "Roland Berger",
+    "title": "Isabel von Waldburg",
+    "url": "https://www.rolandberger.com/cdn-cgi/l/email-protection#adc4decccfc8c183dbc2c3daccc1c9cfd8dfcaeddfc2c1ccc3c9cfc8dfcac8df83cec2c0"
+  },
+  "643d2552ff7819bbfa63efdc": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "Coinbase",
+    "title": "Credit Risk Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175369"
+  },
+  "65f48025490102a0ec585365": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Product Marketing Lead, GTM Strategy - Claude for Knowledge Work San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385602008"
+  },
+  "67a3df73316eb3b4c3c9cc65": {
+    "categories": [
+      "product"
+    ],
+    "company": "D. E. Shaw",
+    "title": "icon Product Manager \u2014 AI Vendor Tools : The D. E. Shaw group seeks an experienced product manager to join its Application Engineering team. This group develops and maintains a range of internal software solutions,\u2026",
+    "url": "https://www.deshaw.com/careers/product-manager-ai-vendor-tools-5910"
+  },
+  "6c1d286e7beaba733ceff7e9": {
+    "categories": [
+      "product"
+    ],
+    "company": "Plaid",
+    "title": "See role",
+    "url": "https://plaid.com/careers/openings/product/san-francisco-hq/staff-product-manager-internal-ai/"
+  },
+  "7286a8184761c18a3d8fd11e": {
+    "categories": [
+      "strategy"
+    ],
+    "company": "OpenAI",
+    "title": "Strategic Finance, International & Marketing Strategic Finance San Francisco",
+    "url": "https://openai.com/careers/strategic-finance-international-and-marketing-san-francisco/"
+  },
+  "7464bfd6056cbac7a5da2da3": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Solutions Marketing Manager, Cybersecurity San Francisco, CA; Washington, DC Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420245008"
+  },
+  "7998387e996ed8887eadda76": {
+    "categories": [
+      "consulting",
+      "ai",
+      "venture_capital"
+    ],
+    "company": "Cornerstone Research",
+    "title": "Search",
+    "url": "javascript:void(0)"
+  },
+  "7efea5e49fcfecf7e4d36d49": {
+    "categories": [
+      "consulting",
+      "startups"
+    ],
+    "company": "Bain",
+    "title": "Skip to Content",
+    "url": "https://www.bain.com/careers/find-a-role/#maincontent"
+  },
+  "7f6a417a6340b138d83de7a0": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Product Marketing Manager, Platform San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424078008"
+  },
+  "86a479c09fc84a900252f8c5": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Product Marketing Manager, Special Projects San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424080008"
+  },
+  "888fd5d7a3b3c6061467fc82": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Enterprise Integrated Campaign Manager San Francisco, CA | New York City, NY | Seattle, WA Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391995008"
+  },
+  "8b012c5ca61fe9e4f9319434": {
+    "categories": [
+      "startups"
+    ],
+    "company": "Citi",
+    "title": "Skip to main content",
+    "url": "https://jobs.citi.com/#content"
+  },
+  "8e5b8bf846de9df493e1a952": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "T. Rowe Price",
+    "title": "Jobs in the U.S.",
+    "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/jobs"
+  },
+  "90090e86ed98823ad9ea93ad": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Customer Marketing Manager, Industries San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390155008"
+  },
+  "904fb0635336108df7835df9": {
+    "categories": [
+      "product"
+    ],
+    "company": "Datadog",
+    "title": "Early Career and Internships Learn more",
+    "url": "https://careers.datadoghq.com/early-careers"
+  },
+  "91de70a44d8d0f9f3ed28132": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Head of Community, Enterprise Marketing San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388719008"
+  },
+  "982863bfa50c859ff834845c": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Copywriter, Developer San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008"
+  },
+  "9c7fb4d8350c111ff70ed040": {
+    "categories": [
+      "ai"
+    ],
+    "company": "OpenAI",
+    "title": "Applied AI Engineer, Government, International OpenAI for Gov London, UK",
+    "url": "https://openai.com/careers/applied-ai-engineer-government-international-london-uk/"
+  },
+  "a0ebb962cbbc84386acbd08c": {
+    "categories": [
+      "product",
+      "markets_finance"
+    ],
+    "company": "Barclays",
+    "title": "Looking for a contract role?",
+    "url": "https://barclays.talent-community.com/"
+  },
+  "a29f9828a6504a205923be97": {
+    "categories": [
+      "consulting",
+      "markets_finance",
+      "venture_capital"
+    ],
+    "company": "Altman Solon",
+    "title": "Skip to content",
+    "url": "https://www.altmansolon.com/careers/#main-content"
+  },
+  "a985e74e70ebbdd04907e2d0": {
+    "categories": [
+      "product"
+    ],
+    "company": "Datadog",
+    "title": "Technical Solutions 88 positions",
+    "url": "https://careers.datadoghq.com/technical-solutions/"
+  },
+  "af5a8d65884504080b6c63b1": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "Coinbase",
+    "title": "\udb80\udf18 Derivatives Exchange Trade an accessible futures market",
+    "url": "https://www.coinbase.com/derivatives"
+  },
+  "b026533ef5f31a8808d50a73": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "Coinbase",
+    "title": "\udb81\udcb0 International Exchange Access perpetual futures markets",
+    "url": "https://www.coinbase.com/international-exchange"
+  },
+  "b68a035bb45e80d35cdc277b": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Executive Communications Writer San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415287008"
+  },
+  "b73c685393ba0cba952d2b2a": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Program Manager, Communications San Francisco, CA | New York City, NY Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5252781008"
+  },
+  "b833ed547880d5ac1a08f583": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Platform Communications New York City, NY; San Francisco, CA; Seattle, WA Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5240487008"
+  },
+  "b9981a3389102c7eed218429": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "T. Rowe Price",
+    "title": "Jobs for Internal Candidates",
+    "url": "https://wd5.myworkday.com/troweprice/d/task/1422$2978.htmld"
+  },
+  "ba751166a535f3e1b2d34070": {
+    "categories": [
+      "consulting",
+      "ai"
+    ],
+    "company": "West Monroe",
+    "title": "Contact Us",
+    "url": "https://www.westmonroe.com/contact"
+  },
+  "bd8ca85c20f0f5bf6b0f916f": {
+    "categories": [
+      "consulting",
+      "product",
+      "strategy",
+      "ai",
+      "startups",
+      "venture_capital"
+    ],
+    "company": "L.E.K. Consulting",
+    "title": "Skip to main content",
+    "url": "https://www.lek.com/join-lek#main-content"
+  },
+  "bfde45c5c3e61ced93871dfa": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Partner Marketing Manager, Launches San Francisco, CA | Seattle, WA Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388667008"
+  },
+  "c359800b06bb862bb4cd4d2a": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "Coinbase",
+    "title": "\udb82\udcd0 Verified Pools Transparent, verified liquidity pools",
+    "url": "https://www.coinbase.com/verified-pools"
+  },
+  "c396befaed2341550c346f59": {
+    "categories": [
+      "markets_finance",
+      "startups"
+    ],
+    "company": "Rothschild & Co",
+    "title": "Skip to main content",
+    "url": "https://www.rothschildandco.com/en/careers/#main"
+  },
+  "c45674e9d0e12505bb3d9869": {
+    "categories": [
+      "product"
+    ],
+    "company": "Datadog",
+    "title": "Product Design 4 positions",
+    "url": "https://careers.datadoghq.com/product-design/"
+  },
+  "c5e9c279d1a681c109226857": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Field Marketing Manager, APAC Singapore Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393720008"
+  },
+  "c602d8f4ce1386aa69991578": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Solutions Marketing Manager, Healthcare & Science San Francisco, CA Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420232008"
+  },
+  "cb6bc179a26ba04e4d66a88c": {
+    "categories": [
+      "consulting",
+      "ai",
+      "venture_capital"
+    ],
+    "company": "Analysis Group",
+    "title": "Skip to main content",
+    "url": "https://www.analysisgroup.com/careers/#main"
+  },
+  "ced7ae3f994162600b2fed35": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "Balyasny Asset Management",
+    "title": "Balyasny Asset Management Homepage",
+    "url": "https://www.bamfunds.com/"
+  },
+  "d0613ec701ccc68a7c9017b7": {
+    "categories": [
+      "consulting"
+    ],
+    "company": "Altman Solon",
+    "title": "Students Build your consulting career through internships and entry-level roles in TMT.",
+    "url": "https://www.altmansolon.com/careers/student-opportunities"
+  },
+  "d219c39afa909d82af7fbf6d": {
+    "categories": [
+      "product"
+    ],
+    "company": "Datadog",
+    "title": "Product Management 24 positions",
+    "url": "https://careers.datadoghq.com/product-management/"
+  },
+  "d808361320707f9562da0d1a": {
+    "categories": [
+      "ai",
+      "venture_capital"
+    ],
+    "company": "Accel",
+    "title": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows RE and infrastructure owners, developers, asset managers, and operators to measure, track, and manage their climate risks. View 10 jobs",
+    "url": "https://www.accel.com/companies/accacia#content"
+  },
+  "d93e7d486ad8f9139a9b36a4": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "Coinbase",
+    "title": "\udb80\udfba Exchange Spot markets for high-frequency trading",
+    "url": "https://www.coinbase.com/exchange"
+  },
+  "dde820e2ddb789f848f6621a": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Internal Communications Manager, Tech San Francisco, CA | Seattle, WA Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383388008"
+  },
+  "dec00a69666775d1b082c1d0": {
+    "categories": [
+      "hedge_fund"
+    ],
+    "company": "Five Rings",
+    "title": "Summer Intern 2027 - Quantitative Researcher (PhD)",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008"
+  },
+  "e35657e385e3bd0e07fca721": {
+    "categories": [
+      "product",
+      "venture_capital"
+    ],
+    "company": "D. E. Shaw",
+    "title": "icon Start-up Ventures: Product Manager at Wisable : Wisable, a tech-enabled business brokerage that spun out from D. E. Shaw\u2019s venture studio, seeks a product manager to lead the development of its internal technology platform.\u2026",
+    "url": "https://www.deshaw.com/careers/start-up-ventures-product-manager-at-wisable-5421"
+  },
+  "e66870d9ed01b0429c3d43ca": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Marketing Events Manager, International London, UK Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424288008"
+  },
+  "e87a4b29481ffb8f5e510c05": {
+    "categories": [
+      "markets_finance"
+    ],
+    "company": "T. Rowe Price",
+    "title": "LinkedIn page",
+    "url": "https://www.linkedin.com/company/t--rowe-price/jobs/"
+  },
+  "e900a80609934b707252807e": {
+    "categories": [
+      "strategy"
+    ],
+    "company": "OpenAI",
+    "title": "Apply now (opens in a new window)",
+    "url": "https://jobs.ashbyhq.com/openai/5b85c0cc-3f19-4b96-9bd3-3b7521e54f44/application"
+  },
+  "edaa7426620bb7d0072daaf0": {
+    "categories": [
+      "strategy"
+    ],
+    "company": "Coinbase",
+    "title": "Strategic Finance Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175438"
+  },
+  "ee7699e43429ae04283a46ec": {
+    "categories": [
+      "product"
+    ],
+    "company": "Datadog",
+    "title": "Marketing 19 positions",
+    "url": "https://careers.datadoghq.com/marketing/"
+  },
+  "f19d83b17e90488e72c1bde6": {
+    "categories": [
+      "product"
+    ],
+    "company": "Coinbase",
+    "title": "Product Manager (HR Technology) Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175504"
+  },
+  "fbaea33ec7a2954f2a3f56b9": {
+    "categories": [
+      "venture_capital"
+    ],
+    "company": "Anthropic",
+    "title": "Partner Marketing Lead, Cloud San Francisco, CA | Seattle, WA Apply",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406113008"
+  },
+  "fdddc3a5d2e06fe6921cb194": {
+    "categories": [
+      "startups"
+    ],
+    "company": "Simon-Kucher",
+    "title": "here",
+    "url": "https://www.simon-kucher.com/en/who-we-are/about-us"
+  },
+  "fe3ed22008a8a89c03fe1b72": {
+    "categories": [
+      "product"
+    ],
+    "company": "Coinbase",
+    "title": "Associate Product Manager Intern",
+    "url": "https://www.coinbase.com/careers/positions/8168322"
+  }
+}
