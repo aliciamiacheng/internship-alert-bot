@@ -15,6 +15,18 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: python monitor.py
+      - name: Email internship matches
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_APP_PASSWORD }}
+          subject: "Internship Alert Bot — latest scan"
+          to: aliciamiacheng@gmail.com
+          from: Internship Alert Bot
+          body: file://latest_alert.md
       - name: Persist seen jobs and latest alert
         run: |
           git config user.name "internship-alert-bot"
