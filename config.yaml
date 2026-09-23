@@ -19,9 +19,15 @@ categories:
     - management consulting
   product:
     - product management
+    - product manager
+    - associate product manager
+    - apm intern
+    - technical product manager
+    - product development
     - product strategy
     - product operations
     - product intern
+    - product analyst
   markets_finance:
     - global markets
     - sales and trading
@@ -43,6 +49,9 @@ categories:
     - business operations
     - bizops
     - growth strategy
+    - strategy intern
+    - strategic initiatives
+    - growth operations
     - product strategy
   ai:
     - artificial intelligence
@@ -89,7 +98,6 @@ internship_terms:
   - summer associate
 
 exclude_terms:
-  - manager
   - senior manager
   - lead
   - team lead
