@@ -1,9 +1,9 @@
 # New Summer 2027 internship matches
 
-## Datadog — General & Administrative 39 positions
+## Datadog — Engineering 89 positions
 Categories: Product
-Apply: https://careers.datadoghq.com/general-and-administrative/
+Apply: https://careers.datadoghq.com/engineering/
 
-## Datadog — Sales 159 positions
+## Datadog — Technical Solutions 86 positions
 Categories: Product
-Apply: https://careers.datadoghq.com/sales/
+Apply: https://careers.datadoghq.com/technical-solutions/
