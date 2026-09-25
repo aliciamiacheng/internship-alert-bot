@@ -1,11 +1,23 @@
 name: Internship Monitor
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "monitor.py"
+      - "verify.py"
+      - "test_monitor.py"
+      - "config.yaml"
+      - "companies.csv"
+      - ".github/workflows/monitor.yml"
   schedule:
     - cron: "17 */6 * * *"
     - cron: "43 13 * * 1"
 permissions:
   contents: write
+concurrency:
+  group: internship-monitor
+  cancel-in-progress: false
 jobs:
   monitor:
     runs-on: ubuntu-latest
@@ -32,7 +44,7 @@ jobs:
           secure: true
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_APP_PASSWORD }}
-          subject: "New Summer 2027 Internship Matches"
+          subject: "Internship matches found"
           to: aliciamiacheng@gmail.com
           from: Internship Alert Bot
           body: file://latest_alert.md
