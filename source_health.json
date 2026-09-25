@@ -1,0 +1,1509 @@
+{
+  "checked_at_utc": "2026-09-25T14:38:27.154654+00:00",
+  "companies": [
+    {
+      "company": "McKinsey",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "BCG",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Bain",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Strategy&",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Oliver Wyman",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Kearney",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "L.E.K. Consulting",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Roland Berger",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "EY-Parthenon",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Deloitte",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Accenture",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "PwC",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "KPMG",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Alvarez & Marsal",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "FTI Consulting",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "West Monroe",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Altman Solon",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Analysis Group",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Cornerstone Research",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Charles River Associates",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "NERA Economic Consulting",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "ZS Associates",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Simon-Kucher",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Arthur D. Little",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "OC&C",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Guidehouse",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Lumanity",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Goldman Sachs",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "JPMorgan",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Morgan Stanley",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Bank of America",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Citi",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Barclays",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "UBS",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Deutsche Bank",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "HSBC",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "BNP Paribas",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Societe Generale",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Nomura",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Jefferies",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Lazard",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Evercore",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Moelis",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "PJT Partners",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Centerview Partners",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Rothschild & Co",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Qatalyst Partners",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Guggenheim Securities",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Macquarie",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "SMBC",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "MUFG",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Scotiabank",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Wells Fargo",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "PIMCO",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "BlackRock",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Fidelity",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Capital Group",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Wellington Management",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "T. Rowe Price",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Schroders",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "State Street",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Jane Street",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 228,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Citadel",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Citadel Securities",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "D. E. Shaw",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Point72",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 220,
+      "matches": 8,
+      "detail": ""
+    },
+    {
+      "company": "Two Sigma",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Bridgewater",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "AQR Capital Management",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Balyasny Asset Management",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Millennium",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Man Group",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Marshall Wace",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Brevan Howard",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "ExodusPoint",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Soros Fund Management",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Schonfeld",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Squarepoint",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Qube Research & Technologies",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Optiver",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "IMC",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Hudson River Trading",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Jump Trading",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 113,
+      "matches": 4,
+      "detail": ""
+    },
+    {
+      "company": "DRW",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "SIG",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Virtu Financial",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Akuna Capital",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Five Rings",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 16,
+      "matches": 1,
+      "detail": ""
+    },
+    {
+      "company": "Belvedere Trading",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Flow Traders",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "BP Trading & Shipping",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Blackstone",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "KKR",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Apollo",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Carlyle",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "EQT",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Brookfield",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Ares Management",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Oaktree",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Warburg Pincus",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "General Atlantic",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Insight Partners",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "TPG",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Vista Equity Partners",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Thoma Bravo",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Bain Capital",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "StepStone Group",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Sequoia Capital",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Andreessen Horowitz",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "General Catalyst",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Bessemer Venture Partners",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Lightspeed Venture Partners",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Accel",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "NEA",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Founders Fund",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Index Ventures",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "GV",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Google",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Microsoft",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Amazon",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Meta",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Apple",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Uber",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Airbnb",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 157,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Stripe",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 692,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Block",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Robinhood",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 160,
+      "matches": 4,
+      "detail": ""
+    },
+    {
+      "company": "Coinbase",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 209,
+      "matches": 5,
+      "detail": ""
+    },
+    {
+      "company": "Datadog",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 449,
+      "matches": 2,
+      "detail": ""
+    },
+    {
+      "company": "Snowflake",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 351,
+      "matches": 1,
+      "detail": ""
+    },
+    {
+      "company": "Databricks",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 884,
+      "matches": 1,
+      "detail": ""
+    },
+    {
+      "company": "Palantir",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "NVIDIA",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Anthropic",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 623,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "OpenAI",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Perplexity",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 124,
+      "matches": 3,
+      "detail": ""
+    },
+    {
+      "company": "Scale AI",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 206,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Cohere",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 147,
+      "matches": 1,
+      "detail": ""
+    },
+    {
+      "company": "Mistral AI",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Hugging Face",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "xAI",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Applied Intuition",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Anduril",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Ramp",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 155,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Brex",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 258,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Rippling",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Figma",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 161,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Notion",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Canva",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Plaid",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Mercury",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 62,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Deel",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Vercel",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Duolingo",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 82,
+      "matches": 1,
+      "detail": ""
+    },
+    {
+      "company": "Atlassian",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Wise",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 16,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Monzo",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 71,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Linear",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 30,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Ashby",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 65,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Webflow",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Airtable",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Miro",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Amplitude",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 38,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Mixpanel",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 76,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Intercom",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "PostHog",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 9,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Lattice",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Asana",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 101,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Monday.com",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Check",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 19,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Taktile",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 42,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Omnea",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 50,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Gradient Labs",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 7,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Gusto",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 96,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Chime",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 67,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "N26",
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 67,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Revolut",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Pleo",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 33,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Turo",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Klook",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Tripadvisor",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Grab",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "NerdWallet",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Zocdoc",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Vanta",
+      "source": "ashby",
+      "status": "ok",
+      "listings": 88,
+      "matches": 0,
+      "detail": ""
+    },
+    {
+      "company": "Carta",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    },
+    {
+      "company": "Klarna",
+      "source": "none",
+      "status": "unconfigured",
+      "listings": 0,
+      "matches": 0,
+      "detail": "No approved listing source configured"
+    }
+  ]
+}

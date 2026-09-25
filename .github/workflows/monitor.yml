@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 */6 * * *"
+    - cron: "43 13 * * 1"
 permissions:
   contents: write
 jobs:
@@ -14,11 +15,14 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - run: python -m unittest -q test_monitor
       - name: Scan internships
         id: scan
         run: |
           python monitor.py
           echo "new_matches=$(tr -d '\n' < new_matches_found.txt)" >> "$GITHUB_OUTPUT"
+          echo "new_health_errors=$(tr -d '\n' < health_errors_found.txt)" >> "$GITHUB_OUTPUT"
+          cat source_health.md >> "$GITHUB_STEP_SUMMARY"
       - name: Email new internship matches
         if: steps.scan.outputs.new_matches == 'true'
         uses: dawidd6/action-send-mail@v3
@@ -32,10 +36,38 @@ jobs:
           to: aliciamiacheng@gmail.com
           from: Internship Alert Bot
           body: file://latest_alert.md
+      - name: Email newly broken sources
+        if: steps.scan.outputs.new_health_errors == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_APP_PASSWORD }}
+          subject: "Internship bot source failure"
+          to: aliciamiacheng@gmail.com
+          from: Internship Alert Bot
+          body: file://health_alert.md
+      - name: Email weekly coverage report
+        if: github.event.schedule == '43 13 * * 1'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_APP_PASSWORD }}
+          subject: "Weekly internship source coverage"
+          to: aliciamiacheng@gmail.com
+          from: Internship Alert Bot
+          body: file://source_health.md
       - name: Persist seen jobs and latest alert
         run: |
           git config user.name "internship-alert-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add seen_jobs.json latest_alert.md
+          git add seen_jobs.json latest_alert.md source_health.json source_health.md
           git diff --cached --quiet || git commit -m "Update internship alerts"
           git push
+      - name: Verify every configured source
+        run: python verify.py
