@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-25T19:34:04.277781+00:00",
+  "checked_at_utc": "2026-09-25T21:39:22.406269+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -997,7 +997,7 @@
       "company": "Airbnb",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 158,
+      "listings": 159,
       "matches": 0,
       "detail": ""
     },
@@ -1005,7 +1005,7 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 700,
+      "listings": 702,
       "matches": 0,
       "detail": ""
     },
@@ -1013,7 +1013,7 @@
       "company": "Block",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 215,
+      "listings": 214,
       "matches": 0,
       "detail": ""
     },
@@ -1021,7 +1021,7 @@
       "company": "Robinhood",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 161,
+      "listings": 159,
       "matches": 4,
       "detail": ""
     },
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 625,
+      "listings": 623,
       "matches": 0,
       "detail": ""
     },
@@ -1133,7 +1133,7 @@
       "company": "xAI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 276,
+      "listings": 275,
       "matches": 0,
       "detail": ""
     },
@@ -1157,7 +1157,7 @@
       "company": "Ramp",
       "source": "ashby",
       "status": "ok",
-      "listings": 158,
+      "listings": 157,
       "matches": 0,
       "detail": ""
     },
@@ -1165,7 +1165,7 @@
       "company": "Brex",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 256,
+      "listings": 258,
       "matches": 0,
       "detail": ""
     },
@@ -1189,7 +1189,7 @@
       "company": "Notion",
       "source": "ashby",
       "status": "ok",
-      "listings": 129,
+      "listings": 128,
       "matches": 0,
       "detail": ""
     },
@@ -1205,7 +1205,7 @@
       "company": "Plaid",
       "source": "ashby",
       "status": "ok",
-      "listings": 121,
+      "listings": 122,
       "matches": 0,
       "detail": ""
     },
@@ -1277,7 +1277,7 @@
       "company": "Ashby",
       "source": "ashby",
       "status": "ok",
-      "listings": 65,
+      "listings": 66,
       "matches": 0,
       "detail": ""
     },
@@ -1333,7 +1333,7 @@
       "company": "PostHog",
       "source": "ashby",
       "status": "ok",
-      "listings": 9,
+      "listings": 8,
       "matches": 0,
       "detail": ""
     },
@@ -1341,7 +1341,7 @@
       "company": "Lattice",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 11,
+      "listings": 10,
       "matches": 0,
       "detail": ""
     },
