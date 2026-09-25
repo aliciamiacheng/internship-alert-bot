@@ -20,6 +20,9 @@ class MonitorTests(unittest.TestCase):
         self.assertEqual(monitor.matches(job, self.cfg), ["product"])
         self.assertEqual(monitor.matches({**job, "title": "Product Manager Intern 2026"}, self.cfg), [])
         self.assertEqual(monitor.matches({**job, "location": "Remote"}, self.cfg), [])
+        self.assertEqual(monitor.matches({**job, "location": "Amsterdam, Netherlands"}, self.cfg), [])
+        self.assertEqual(monitor.matches({**job, "location": "Chicago, United States"}, self.cfg), ["product"])
+        self.assertEqual(monitor.matches({**job, "title": "Product Manager PhD Intern"}, self.cfg), [])
 
     def test_board_parser_requires_jobs_list_and_stable_id(self):
         data = {"jobs": [{"id": "fixed-id", "title": "Product Manager Intern", "jobUrl": "https://jobs.ashbyhq.com/example/fixed-id", "isListed": True},

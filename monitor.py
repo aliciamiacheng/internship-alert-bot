@@ -46,7 +46,8 @@ def api_jobs(row, timeout):
         data = fetch_json(f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs", timeout)
         if not isinstance(data, dict) or not isinstance(data.get("jobs"), list):
             raise ValueError("Greenhouse feed shape changed")
-        return [{"id": j.get("id"), "title": j.get("title"), "url": j.get("absolute_url"),
+        return [{"id": j.get("id"), "title": j.get("title"),
+                 "url": (j.get("absolute_url") or "").replace("http://block.xyz/", "https://block.xyz/"),
                  "location": (j.get("location") or {}).get("name"),
                  "department": " ".join(d.get("name", "") for d in j.get("departments", []))}
                 for j in data["jobs"]]
@@ -101,12 +102,21 @@ def matches(job, cfg):
     details = f"{title} {clean(job.get('employment'))}".lower()
     if not re.search(r"\b(intern|internship|summer analyst|summer associate)\b", details):
         return []
-    if re.search(r"\b(senior|staff|director|principal|lead|graduate programme)\b", title.lower()):
+    if re.search(r"\b(senior|staff|director|principal|lead|graduate programme|phd|mba)\b", title.lower()):
         return []
     years = re.findall(r"\b20\d{2}\b", title)
     if years and not set(years).intersection(map(str, cfg["target"]["internship_years"])):
         return []
     if cfg["target"].get("exclude_remote") and re.search(r"\bremote\b", clean(job.get("location")).lower()):
+        return []
+    location = clean(job.get("location")).lower()
+    preferred = ("new york", "new jersey", "london", "hong kong", "singapore",
+                 "united states", "united kingdom", "usa", "u.s.")
+    outside = ("netherlands", "australia", "germany", "france", "spain", "italy",
+               "switzerland", "canada", "india", "sofia", "poland", "brazil",
+               "japan", "sweden", "denmark", "ireland")
+    if location and not any(place in location for place in preferred) and any(
+            place in location for place in outside):
         return []
     return [category for category, terms in cfg["categories"].items()
             if any(re.search(r"(?<!\w)" + re.escape(term.lower()) + r"(?!\w)", role) for term in terms)]
@@ -118,7 +128,7 @@ def report_md(state):
         counts[item["status"]] = counts.get(item["status"], 0) + 1
     lines = ["# Internship source verification", "", f"Checked: {state['checked_at_utc']}", "",
              " | ".join(f"{k}: {v}" for k, v in sorted(counts.items())), "",
-             "A successful run does not mean every company is monitored. Unconfigured and error sources need attention.",
+             "OK means the configured board returned postings; an employer may also post on another portal. Unconfigured and error sources need attention.",
              "", "| Company | Source | Status | Listings | Matches | Detail |",
              "|---|---|---|---:|---:|---|"]
     for item in state["companies"]:
@@ -138,7 +148,6 @@ def run():
     seen_path = ROOT / "seen_jobs.json"
     seen = json.loads(seen_path.read_text()) if seen_path.exists() else {}
     sources = seen.pop("_sources", {})
-    previous_sources = set(sources)
     health, fresh = [], []
     (ROOT / "new_matches_found.txt").write_text("false\n")
     for row in rows:
@@ -161,7 +170,7 @@ def run():
                     stable_id = hashlib.sha256(f"v2|{name}|{job['id']}".encode()).hexdigest()[:32]
                     result = {"company": name, "title": title, "url": url, "id": stable_id,
                               "categories": categories, "location": clean(job.get("location"))}
-                    if stable_id not in seen and name in previous_sources and url not in old_urls:
+                    if stable_id not in seen and url not in old_urls:
                         fresh.append(result)
                     seen[stable_id] = result
                 sources[name] = {"last_success_utc": datetime.now(timezone.utc).isoformat(),
@@ -183,7 +192,8 @@ def run():
         "# Internship sources need attention\n\n" +
         "\n".join(f"- {x['company']}: {x['status']} — {x['detail']}" for x in regressions) + "\n"
         if regressions else "# No newly broken sources\n")
-    lines = ["# New Summer 2027 internship matches", ""]
+    lines = ["# Internship matches newly found by this bot", "",
+             "Newly found does not necessarily mean newly posted. Check eligibility and deadlines on the employer's page.", ""]
     for job in fresh:
         lines.extend([f"## {job['company']} — {job['title']}",
                       f"Categories: {', '.join(job['categories'])}",

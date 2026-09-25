@@ -7,16 +7,16 @@ Checks published postings for Summer 2027 internships and records the health of 
 1. **Structured job feeds**: official public Ashby, Greenhouse, and Lever posting endpoints. Configure `source_type` and `source_key` for a known board. The feed's stable posting ID is used for deduplication.
 2. **Public HTML job listings**: opt-in only. Configure `source_type=html`, an exact `job_selector` for detail links, and a `job_url_pattern`. The adapter checks robots.txt before requesting the page. Do not add a site if its access terms forbid automation; use an authorized feed, employer alerts, or manual review instead.
 
-The existing company list is retained, but companies without a configured and checked source are marked **unconfigured**. They do **not** produce alerts. This prevents the old broad career-page link scan from reporting navigation, category links, and stale listings as jobs. The initial successful check of a newly configured source establishes its baseline, so already published jobs are not re-sent as new releases.
+The existing company list is retained, but companies without a configured and checked source are marked **unconfigured**. They do **not** produce alerts. This prevents the old broad career-page link scan from reporting navigation, category links, and stale listings as jobs. The first successful check of a newly connected source reports its currently open matches once; subsequent checks alert only for new posting IDs.
 
-As of this update, 37 of 188 companies have individually tested live public feeds; 151 are unconfigured and clearly reported. A live feed returning no jobs is `empty`; a failed request is `error`; robots denial is `blocked`. No source is claimed as verified simply because the workflow succeeded.
+As of this update, 59 of 188 companies have individually tested live public feeds; 129 are unconfigured and clearly reported. A live feed returning no jobs is `empty`; a failed request is `error`; robots denial is `blocked`. A working feed may still omit a separate student recruiting portal used by the employer; the report verifies the configured source rather than claiming exhaustive employer coverage.
 
 ## Verification and notification
 
 - `source_health.json` and `source_health.md` show status, posting count, matching count, and error for each company at the last check. The same table appears in the GitHub Actions run summary.
 - `verify.py` checks that every configured source returned a current verification result. The workflow fails if a configured source errors or is blocked. It reports the count of unconfigured sources separately.
 - If a previously working source errors or becomes blocked, an email is sent on the transition. A weekly email gives the full coverage report, including unconfigured companies.
-- Only a new stable posting ID from a previously baselined source triggers an internship email. Saved legacy URLs suppress duplicates during migration. The matching rule uses the **job title** for internship and seniority, not the surrounding careers-page text. It uses the title and department for the role category.
+- An open match from a newly connected source is emailed once, even if it was published earlier. Later runs require a new stable posting ID. Saved legacy URLs suppress duplicates during migration. The matching rule uses the **job title** for internship and seniority, not the surrounding careers-page text. It uses the title and department for the role category.
 - Job listings without a year in the title may be included; review the linked posting for eligibility and Summer 2027 dates. Zero matches can mean no relevant openings, so the verifier cannot promise a job will be posted.
 
 ## Adding a company source
