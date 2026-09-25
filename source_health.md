@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-09-25T14:38:27.154654+00:00
+Checked: 2026-09-25T17:17:44.967804+00:00
 
 ok: 37 | unconfigured: 151
 
@@ -133,19 +133,19 @@ A successful run does not mean every company is monitored. Unconfigured and erro
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 157 | 0 |  |
-| Stripe | greenhouse | ok | 692 | 0 |  |
+| Stripe | greenhouse | ok | 698 | 0 |  |
 | Block | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Robinhood | greenhouse | ok | 160 | 4 |  |
+| Robinhood | greenhouse | ok | 161 | 4 |  |
 | Coinbase | greenhouse | ok | 209 | 5 |  |
 | Datadog | greenhouse | ok | 449 | 2 |  |
-| Snowflake | ashby | ok | 351 | 1 |  |
-| Databricks | greenhouse | ok | 884 | 1 |  |
+| Snowflake | ashby | ok | 348 | 1 |  |
+| Databricks | greenhouse | ok | 889 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 623 | 0 |  |
+| Anthropic | greenhouse | ok | 624 | 0 |  |
 | OpenAI | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Perplexity | ashby | ok | 124 | 3 |  |
-| Scale AI | greenhouse | ok | 206 | 0 |  |
+| Perplexity | ashby | ok | 123 | 3 |  |
+| Scale AI | greenhouse | ok | 205 | 0 |  |
 | Cohere | ashby | ok | 147 | 1 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Hugging Face | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -176,17 +176,17 @@ A successful run does not mean every company is monitored. Unconfigured and erro
 | Intercom | none | unconfigured | 0 | 0 | No approved listing source configured |
 | PostHog | ashby | ok | 9 | 0 |  |
 | Lattice | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Asana | greenhouse | ok | 101 | 0 |  |
+| Asana | greenhouse | ok | 100 | 0 |  |
 | Monday.com | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Check | ashby | ok | 19 | 0 |  |
 | Taktile | ashby | ok | 42 | 0 |  |
 | Omnea | ashby | ok | 50 | 0 |  |
 | Gradient Labs | ashby | ok | 7 | 0 |  |
-| Gusto | greenhouse | ok | 96 | 0 |  |
-| Chime | greenhouse | ok | 67 | 0 |  |
+| Gusto | greenhouse | ok | 95 | 0 |  |
+| Chime | greenhouse | ok | 65 | 0 |  |
 | N26 | greenhouse | ok | 67 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Pleo | ashby | ok | 33 | 0 |  |
+| Pleo | ashby | ok | 35 | 0 |  |
 | Turo | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Klook | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Tripadvisor | none | unconfigured | 0 | 0 | No approved listing source configured |
