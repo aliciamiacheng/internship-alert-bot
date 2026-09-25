@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-25T17:17:44.967804+00:00",
+  "checked_at_utc": "2026-09-25T19:34:04.277781+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -155,11 +155,11 @@
     },
     {
       "company": "Charles River Associates",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
-      "matches": 0,
-      "detail": "No approved listing source configured"
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 85,
+      "matches": 3,
+      "detail": ""
     },
     {
       "company": "NERA Economic Consulting",
@@ -534,7 +534,7 @@
       "source": "greenhouse",
       "status": "ok",
       "listings": 220,
-      "matches": 8,
+      "matches": 6,
       "detail": ""
     },
     {
@@ -579,11 +579,11 @@
     },
     {
       "company": "Man Group",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
-      "matches": 0,
-      "detail": "No approved listing source configured"
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 59,
+      "matches": 1,
+      "detail": ""
     },
     {
       "company": "Marshall Wace",
@@ -619,11 +619,11 @@
     },
     {
       "company": "Schonfeld",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
-      "matches": 0,
-      "detail": "No approved listing source configured"
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 80,
+      "matches": 5,
+      "detail": ""
     },
     {
       "company": "Squarepoint",
@@ -651,11 +651,11 @@
     },
     {
       "company": "IMC",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
-      "matches": 0,
-      "detail": "No approved listing source configured"
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 175,
+      "matches": 5,
+      "detail": ""
     },
     {
       "company": "Hudson River Trading",
@@ -699,11 +699,11 @@
     },
     {
       "company": "Akuna Capital",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
-      "matches": 0,
-      "detail": "No approved listing source configured"
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 42,
+      "matches": 2,
+      "detail": ""
     },
     {
       "company": "Five Rings",
@@ -723,11 +723,11 @@
     },
     {
       "company": "Flow Traders",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
-      "matches": 0,
-      "detail": "No approved listing source configured"
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 47,
+      "matches": 2,
+      "detail": ""
     },
     {
       "company": "BP Trading & Shipping",
@@ -811,11 +811,11 @@
     },
     {
       "company": "General Atlantic",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 11,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Insight Partners",
@@ -891,11 +891,11 @@
     },
     {
       "company": "Bessemer Venture Partners",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 4,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Lightspeed Venture Partners",
@@ -997,7 +997,7 @@
       "company": "Airbnb",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 157,
+      "listings": 158,
       "matches": 0,
       "detail": ""
     },
@@ -1005,17 +1005,17 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 698,
+      "listings": 700,
       "matches": 0,
       "detail": ""
     },
     {
       "company": "Block",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 215,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Robinhood",
@@ -1029,7 +1029,7 @@
       "company": "Coinbase",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 209,
+      "listings": 208,
       "matches": 5,
       "detail": ""
     },
@@ -1038,7 +1038,7 @@
       "source": "greenhouse",
       "status": "ok",
       "listings": 449,
-      "matches": 2,
+      "matches": 1,
       "detail": ""
     },
     {
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 889,
+      "listings": 888,
       "matches": 1,
       "detail": ""
     },
@@ -1077,17 +1077,17 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 624,
+      "listings": 625,
       "matches": 0,
       "detail": ""
     },
     {
       "company": "OpenAI",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "ashby",
+      "status": "ok",
+      "listings": 830,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Perplexity",
@@ -1110,7 +1110,7 @@
       "source": "ashby",
       "status": "ok",
       "listings": 147,
-      "matches": 1,
+      "matches": 0,
       "detail": ""
     },
     {
@@ -1131,11 +1131,11 @@
     },
     {
       "company": "xAI",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 276,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Applied Intuition",
@@ -1157,7 +1157,7 @@
       "company": "Ramp",
       "source": "ashby",
       "status": "ok",
-      "listings": 155,
+      "listings": 158,
       "matches": 0,
       "detail": ""
     },
@@ -1165,7 +1165,7 @@
       "company": "Brex",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 258,
+      "listings": 256,
       "matches": 0,
       "detail": ""
     },
@@ -1181,17 +1181,17 @@
       "company": "Figma",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 161,
+      "listings": 163,
       "matches": 0,
       "detail": ""
     },
     {
       "company": "Notion",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "ashby",
+      "status": "ok",
+      "listings": 129,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Canva",
@@ -1203,11 +1203,11 @@
     },
     {
       "company": "Plaid",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "ashby",
+      "status": "ok",
+      "listings": 121,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Mercury",
@@ -1227,11 +1227,11 @@
     },
     {
       "company": "Vercel",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 88,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Duolingo",
@@ -1283,11 +1283,11 @@
     },
     {
       "company": "Webflow",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 27,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Airtable",
@@ -1299,11 +1299,11 @@
     },
     {
       "company": "Miro",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "ashby",
+      "status": "ok",
+      "listings": 28,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Amplitude",
@@ -1323,11 +1323,11 @@
     },
     {
       "company": "Intercom",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 118,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "PostHog",
@@ -1339,17 +1339,17 @@
     },
     {
       "company": "Lattice",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 11,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Asana",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 100,
+      "listings": 97,
       "matches": 0,
       "detail": ""
     },
@@ -1405,7 +1405,7 @@
       "company": "Chime",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 65,
+      "listings": 66,
       "matches": 0,
       "detail": ""
     },
@@ -1451,11 +1451,11 @@
     },
     {
       "company": "Tripadvisor",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 95,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Grab",
@@ -1467,19 +1467,19 @@
     },
     {
       "company": "NerdWallet",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "ashby",
+      "status": "ok",
+      "listings": 22,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Zocdoc",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 58,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Vanta",
@@ -1491,11 +1491,11 @@
     },
     {
       "company": "Carta",
-      "source": "none",
-      "status": "unconfigured",
-      "listings": 0,
+      "source": "greenhouse",
+      "status": "ok",
+      "listings": 78,
       "matches": 0,
-      "detail": "No approved listing source configured"
+      "detail": ""
     },
     {
       "company": "Klarna",
