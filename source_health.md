@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-09-26T11:32:03.537089+00:00
+Checked: 2026-09-26T16:29:15.743649+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -133,18 +133,18 @@ OK means the configured board returned postings; an employer may also post on an
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 159 | 0 |  |
-| Stripe | greenhouse | ok | 703 | 0 |  |
+| Stripe | greenhouse | ok | 702 | 0 |  |
 | Block | greenhouse | ok | 214 | 0 |  |
 | Robinhood | greenhouse | ok | 159 | 4 |  |
 | Coinbase | greenhouse | ok | 210 | 5 |  |
-| Datadog | greenhouse | ok | 448 | 1 |  |
+| Datadog | greenhouse | ok | 449 | 1 |  |
 | Snowflake | ashby | ok | 349 | 1 |  |
-| Databricks | greenhouse | ok | 888 | 1 |  |
+| Databricks | greenhouse | ok | 887 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 619 | 0 |  |
 | OpenAI | ashby | ok | 830 | 0 |  |
-| Perplexity | ashby | ok | 122 | 3 |  |
+| Perplexity | ashby | ok | 123 | 3 |  |
 | Scale AI | greenhouse | ok | 203 | 0 |  |
 | Cohere | ashby | ok | 147 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -152,7 +152,7 @@ OK means the configured board returned postings; an employer may also post on an
 | xAI | greenhouse | ok | 276 | 0 |  |
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Ramp | ashby | ok | 157 | 0 |  |
+| Ramp | ashby | ok | 158 | 0 |  |
 | Brex | greenhouse | ok | 259 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Figma | greenhouse | ok | 163 | 0 |  |
@@ -182,7 +182,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Taktile | ashby | ok | 42 | 0 |  |
 | Omnea | ashby | ok | 50 | 0 |  |
 | Gradient Labs | ashby | ok | 7 | 0 |  |
-| Gusto | greenhouse | ok | 97 | 0 |  |
+| Gusto | greenhouse | ok | 96 | 0 |  |
 | Chime | greenhouse | ok | 66 | 0 |  |
 | N26 | greenhouse | ok | 67 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -192,7 +192,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Tripadvisor | greenhouse | ok | 96 | 0 |  |
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NerdWallet | ashby | ok | 22 | 0 |  |
-| Zocdoc | greenhouse | ok | 57 | 0 |  |
+| Zocdoc | greenhouse | ok | 58 | 0 |  |
 | Vanta | ashby | ok | 88 | 0 |  |
 | Carta | greenhouse | ok | 78 | 0 |  |
 | Klarna | none | unconfigured | 0 | 0 | No approved listing source configured |
