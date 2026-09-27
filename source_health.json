@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-27T17:02:24.253587+00:00",
+  "checked_at_utc": "2026-09-27T21:25:04.649244+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 618,
+      "listings": 619,
       "matches": 0,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 830,
+      "listings": 829,
       "matches": 0,
       "detail": ""
     },
