@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-09-26T21:15:53.036741+00:00
+Checked: 2026-09-27T05:24:41.558065+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -171,7 +171,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Webflow | greenhouse | ok | 27 | 0 |  |
 | Airtable | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Miro | ashby | ok | 28 | 0 |  |
-| Amplitude | greenhouse | ok | 38 | 0 |  |
+| Amplitude | greenhouse | ok | 37 | 0 |  |
 | Mixpanel | greenhouse | ok | 72 | 0 |  |
 | Intercom | greenhouse | ok | 115 | 0 |  |
 | PostHog | ashby | ok | 8 | 0 |  |
