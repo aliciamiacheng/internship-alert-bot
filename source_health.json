@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-27T05:24:41.558065+00:00",
+  "checked_at_utc": "2026-09-27T12:10:24.700256+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1005,7 +1005,7 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 702,
+      "listings": 701,
       "matches": 0,
       "detail": ""
     },

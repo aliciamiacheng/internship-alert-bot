@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-09-27T05:24:41.558065+00:00
+Checked: 2026-09-27T12:10:24.700256+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -133,7 +133,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 159 | 0 |  |
-| Stripe | greenhouse | ok | 702 | 0 |  |
+| Stripe | greenhouse | ok | 701 | 0 |  |
 | Block | greenhouse | ok | 214 | 0 |  |
 | Robinhood | greenhouse | ok | 159 | 4 |  |
 | Coinbase | greenhouse | ok | 210 | 5 |  |
