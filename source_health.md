@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-09-28T23:21:07.246989+00:00
+Checked: 2026-09-29T05:50:16.188241+00:00
 
 error: 1 | ok: 58 | unconfigured: 129
 
@@ -89,7 +89,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Squarepoint | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Qube Research & Technologies | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Optiver | none | unconfigured | 0 | 0 | No approved listing source configured |
-| IMC | greenhouse | ok | 170 | 5 |  |
+| IMC | greenhouse | ok | 171 | 5 |  |
 | Hudson River Trading | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Jump Trading | greenhouse | ok | 111 | 4 |  |
 | DRW | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -132,18 +132,18 @@ OK means the configured board returned postings; an employer may also post on an
 | Meta | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Airbnb | greenhouse | ok | 159 | 0 |  |
+| Airbnb | greenhouse | ok | 157 | 0 |  |
 | Stripe | greenhouse | ok | 703 | 0 |  |
-| Block | greenhouse | ok | 210 | 0 |  |
-| Robinhood | greenhouse | ok | 158 | 4 |  |
-| Coinbase | greenhouse | ok | 211 | 5 |  |
+| Block | greenhouse | ok | 211 | 0 |  |
+| Robinhood | greenhouse | ok | 159 | 4 |  |
+| Coinbase | greenhouse | ok | 210 | 5 |  |
 | Datadog | greenhouse | ok | 438 | 1 |  |
-| Snowflake | ashby | ok | 342 | 1 |  |
-| Databricks | greenhouse | ok | 883 | 1 |  |
+| Snowflake | ashby | ok | 341 | 1 |  |
+| Databricks | greenhouse | ok | 882 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 627 | 0 |  |
-| OpenAI | ashby | ok | 837 | 0 |  |
+| Anthropic | greenhouse | ok | 629 | 0 |  |
+| OpenAI | ashby | ok | 841 | 0 |  |
 | Perplexity | ashby | ok | 123 | 3 |  |
 | Scale AI | greenhouse | ok | 200 | 0 |  |
 | Cohere | ashby | ok | 145 | 0 |  |
@@ -152,14 +152,14 @@ OK means the configured board returned postings; an employer may also post on an
 | xAI | greenhouse | ok | 289 | 0 |  |
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Ramp | ashby | ok | 158 | 0 |  |
+| Ramp | ashby | ok | 156 | 0 |  |
 | Brex | greenhouse | ok | 263 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Figma | greenhouse | ok | 165 | 0 |  |
 | Notion | ashby | ok | 130 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Plaid | ashby | ok | 122 | 0 |  |
-| Mercury | greenhouse | ok | 63 | 0 |  |
+| Mercury | greenhouse | ok | 62 | 0 |  |
 | Deel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Vercel | greenhouse | ok | 90 | 0 |  |
 | Duolingo | greenhouse | ok | 83 | 1 |  |
@@ -170,19 +170,19 @@ OK means the configured board returned postings; an employer may also post on an
 | Ashby | ashby | ok | 67 | 0 |  |
 | Webflow | greenhouse | ok | 27 | 0 |  |
 | Airtable | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Miro | ashby | ok | 26 | 0 |  |
+| Miro | ashby | ok | 25 | 0 |  |
 | Amplitude | greenhouse | error | 0 | 0 | HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/amplitude/jobs |
-| Mixpanel | greenhouse | ok | 71 | 0 |  |
-| Intercom | greenhouse | ok | 110 | 0 |  |
+| Mixpanel | greenhouse | ok | 70 | 0 |  |
+| Intercom | greenhouse | ok | 108 | 0 |  |
 | PostHog | ashby | ok | 8 | 0 |  |
-| Lattice | greenhouse | ok | 9 | 0 |  |
+| Lattice | greenhouse | ok | 10 | 0 |  |
 | Asana | greenhouse | ok | 97 | 0 |  |
 | Monday.com | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Check | ashby | ok | 18 | 0 |  |
 | Taktile | ashby | ok | 41 | 0 |  |
 | Omnea | ashby | ok | 49 | 0 |  |
 | Gradient Labs | ashby | ok | 7 | 0 |  |
-| Gusto | greenhouse | ok | 95 | 0 |  |
+| Gusto | greenhouse | ok | 98 | 0 |  |
 | Chime | greenhouse | ok | 61 | 0 |  |
 | N26 | greenhouse | ok | 58 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
