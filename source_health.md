@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-09-29T05:50:16.188241+00:00
+Checked: 2026-09-29T13:01:46.019992+00:00
 
 error: 1 | ok: 58 | unconfigured: 129
 
@@ -74,7 +74,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Citadel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Citadel Securities | none | unconfigured | 0 | 0 | No approved listing source configured |
 | D. E. Shaw | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Point72 | greenhouse | ok | 216 | 6 |  |
+| Point72 | greenhouse | ok | 215 | 6 |  |
 | Two Sigma | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Bridgewater | none | unconfigured | 0 | 0 | No approved listing source configured |
 | AQR Capital Management | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -98,7 +98,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Akuna Capital | greenhouse | ok | 41 | 2 |  |
 | Five Rings | greenhouse | ok | 16 | 1 |  |
 | Belvedere Trading | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Flow Traders | greenhouse | ok | 46 | 1 |  |
+| Flow Traders | greenhouse | ok | 47 | 1 |  |
 | BP Trading & Shipping | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Blackstone | none | unconfigured | 0 | 0 | No approved listing source configured |
 | KKR | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -132,18 +132,18 @@ OK means the configured board returned postings; an employer may also post on an
 | Meta | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Airbnb | greenhouse | ok | 157 | 0 |  |
-| Stripe | greenhouse | ok | 703 | 0 |  |
-| Block | greenhouse | ok | 211 | 0 |  |
-| Robinhood | greenhouse | ok | 159 | 4 |  |
-| Coinbase | greenhouse | ok | 210 | 5 |  |
-| Datadog | greenhouse | ok | 438 | 1 |  |
-| Snowflake | ashby | ok | 341 | 1 |  |
-| Databricks | greenhouse | ok | 882 | 1 |  |
+| Airbnb | greenhouse | ok | 155 | 0 |  |
+| Stripe | greenhouse | ok | 707 | 0 |  |
+| Block | greenhouse | ok | 210 | 0 |  |
+| Robinhood | greenhouse | ok | 161 | 4 |  |
+| Coinbase | greenhouse | ok | 208 | 5 |  |
+| Datadog | greenhouse | ok | 436 | 1 |  |
+| Snowflake | ashby | ok | 339 | 1 |  |
+| Databricks | greenhouse | ok | 881 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 629 | 0 |  |
-| OpenAI | ashby | ok | 841 | 0 |  |
+| Anthropic | greenhouse | ok | 627 | 0 |  |
+| OpenAI | ashby | ok | 838 | 0 |  |
 | Perplexity | ashby | ok | 123 | 3 |  |
 | Scale AI | greenhouse | ok | 200 | 0 |  |
 | Cohere | ashby | ok | 145 | 0 |  |
@@ -173,7 +173,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Miro | ashby | ok | 25 | 0 |  |
 | Amplitude | greenhouse | error | 0 | 0 | HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/amplitude/jobs |
 | Mixpanel | greenhouse | ok | 70 | 0 |  |
-| Intercom | greenhouse | ok | 108 | 0 |  |
+| Intercom | greenhouse | ok | 109 | 0 |  |
 | PostHog | ashby | ok | 8 | 0 |  |
 | Lattice | greenhouse | ok | 10 | 0 |  |
 | Asana | greenhouse | ok | 97 | 0 |  |
@@ -192,7 +192,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Tripadvisor | greenhouse | ok | 93 | 0 |  |
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NerdWallet | ashby | ok | 21 | 0 |  |
-| Zocdoc | greenhouse | ok | 55 | 0 |  |
+| Zocdoc | greenhouse | ok | 57 | 0 |  |
 | Vanta | ashby | ok | 88 | 0 |  |
 | Carta | greenhouse | ok | 75 | 0 |  |
 | Klarna | none | unconfigured | 0 | 0 | No approved listing source configured |
