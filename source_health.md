@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-09-30T05:40:23.697976+00:00
+Checked: 2026-09-30T12:43:58.706595+00:00
 
 error: 1 | ok: 58 | unconfigured: 129
 
@@ -74,13 +74,13 @@ OK means the configured board returned postings; an employer may also post on an
 | Citadel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Citadel Securities | none | unconfigured | 0 | 0 | No approved listing source configured |
 | D. E. Shaw | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Point72 | greenhouse | ok | 218 | 6 |  |
+| Point72 | greenhouse | ok | 217 | 6 |  |
 | Two Sigma | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Bridgewater | none | unconfigured | 0 | 0 | No approved listing source configured |
 | AQR Capital Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Balyasny Asset Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Millennium | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Man Group | greenhouse | ok | 59 | 1 |  |
+| Man Group | greenhouse | ok | 61 | 1 |  |
 | Marshall Wace | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Brevan Howard | none | unconfigured | 0 | 0 | No approved listing source configured |
 | ExodusPoint | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -91,7 +91,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Optiver | none | unconfigured | 0 | 0 | No approved listing source configured |
 | IMC | greenhouse | ok | 171 | 5 |  |
 | Hudson River Trading | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Jump Trading | greenhouse | ok | 111 | 4 |  |
+| Jump Trading | greenhouse | ok | 112 | 4 |  |
 | DRW | none | unconfigured | 0 | 0 | No approved listing source configured |
 | SIG | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Virtu Financial | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -133,20 +133,20 @@ OK means the configured board returned postings; an employer may also post on an
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 158 | 0 |  |
-| Stripe | greenhouse | ok | 710 | 0 |  |
+| Stripe | greenhouse | ok | 712 | 0 |  |
 | Block | greenhouse | ok | 212 | 0 |  |
 | Robinhood | greenhouse | ok | 162 | 4 |  |
-| Coinbase | greenhouse | ok | 209 | 5 |  |
-| Datadog | greenhouse | ok | 438 | 1 |  |
-| Snowflake | ashby | ok | 338 | 1 |  |
-| Databricks | greenhouse | ok | 883 | 1 |  |
+| Coinbase | greenhouse | ok | 210 | 5 |  |
+| Datadog | greenhouse | ok | 436 | 1 |  |
+| Snowflake | ashby | ok | 339 | 1 |  |
+| Databricks | greenhouse | ok | 882 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 637 | 0 |  |
-| OpenAI | ashby | ok | 839 | 0 |  |
+| Anthropic | greenhouse | ok | 636 | 0 |  |
+| OpenAI | ashby | ok | 838 | 0 |  |
 | Perplexity | ashby | ok | 124 | 3 |  |
 | Scale AI | greenhouse | ok | 191 | 0 |  |
-| Cohere | ashby | ok | 144 | 0 |  |
+| Cohere | ashby | ok | 137 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Hugging Face | none | unconfigured | 0 | 0 | No approved listing source configured |
 | xAI | greenhouse | ok | 291 | 0 |  |
@@ -155,7 +155,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Ramp | ashby | ok | 155 | 0 |  |
 | Brex | greenhouse | ok | 268 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Figma | greenhouse | ok | 162 | 0 |  |
+| Figma | greenhouse | ok | 163 | 0 |  |
 | Notion | ashby | ok | 128 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Plaid | ashby | ok | 122 | 0 |  |
@@ -165,14 +165,14 @@ OK means the configured board returned postings; an employer may also post on an
 | Duolingo | greenhouse | ok | 83 | 1 |  |
 | Atlassian | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Wise | greenhouse | ok | 16 | 0 |  |
-| Monzo | greenhouse | ok | 73 | 0 |  |
+| Monzo | greenhouse | ok | 72 | 0 |  |
 | Linear | ashby | ok | 30 | 0 |  |
 | Ashby | ashby | ok | 67 | 0 |  |
 | Webflow | greenhouse | ok | 27 | 0 |  |
 | Airtable | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Miro | ashby | ok | 26 | 0 |  |
+| Miro | ashby | ok | 25 | 0 |  |
 | Amplitude | greenhouse | error | 0 | 0 | HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/amplitude/jobs |
-| Mixpanel | greenhouse | ok | 70 | 0 |  |
+| Mixpanel | greenhouse | ok | 71 | 0 |  |
 | Intercom | greenhouse | ok | 109 | 0 |  |
 | PostHog | ashby | ok | 8 | 0 |  |
 | Lattice | greenhouse | ok | 11 | 0 |  |
@@ -184,15 +184,15 @@ OK means the configured board returned postings; an employer may also post on an
 | Gradient Labs | ashby | ok | 7 | 0 |  |
 | Gusto | greenhouse | ok | 98 | 0 |  |
 | Chime | greenhouse | ok | 64 | 0 |  |
-| N26 | greenhouse | ok | 53 | 0 |  |
+| N26 | greenhouse | ok | 50 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Pleo | ashby | ok | 32 | 0 |  |
+| Pleo | ashby | ok | 33 | 0 |  |
 | Turo | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Klook | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Tripadvisor | greenhouse | ok | 95 | 0 |  |
+| Tripadvisor | greenhouse | ok | 96 | 0 |  |
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NerdWallet | ashby | ok | 21 | 0 |  |
-| Zocdoc | greenhouse | ok | 59 | 0 |  |
-| Vanta | ashby | ok | 88 | 0 |  |
+| Zocdoc | greenhouse | ok | 58 | 0 |  |
+| Vanta | ashby | ok | 87 | 0 |  |
 | Carta | greenhouse | ok | 77 | 0 |  |
 | Klarna | none | unconfigured | 0 | 0 | No approved listing source configured |
