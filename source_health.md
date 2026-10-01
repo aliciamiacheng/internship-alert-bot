@@ -1,8 +1,8 @@
 # Internship source verification
 
-Checked: 2026-10-01T06:05:57.788981+00:00
+Checked: 2026-10-01T13:28:21.315524+00:00
 
-error: 1 | ok: 58 | unconfigured: 129
+error: 2 | ok: 57 | unconfigured: 129
 
 OK means the configured board returned postings; an employer may also post on another portal. Unconfigured and error sources need attention.
 
@@ -70,17 +70,17 @@ OK means the configured board returned postings; an employer may also post on an
 | T. Rowe Price | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Schroders | none | unconfigured | 0 | 0 | No approved listing source configured |
 | State Street | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Jane Street | greenhouse | ok | 230 | 0 |  |
+| Jane Street | greenhouse | ok | 231 | 0 |  |
 | Citadel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Citadel Securities | none | unconfigured | 0 | 0 | No approved listing source configured |
 | D. E. Shaw | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Point72 | greenhouse | ok | 217 | 6 |  |
+| Point72 | greenhouse | ok | 213 | 6 |  |
 | Two Sigma | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Bridgewater | none | unconfigured | 0 | 0 | No approved listing source configured |
 | AQR Capital Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Balyasny Asset Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Millennium | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Man Group | greenhouse | ok | 60 | 1 |  |
+| Man Group | greenhouse | ok | 58 | 1 |  |
 | Marshall Wace | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Brevan Howard | none | unconfigured | 0 | 0 | No approved listing source configured |
 | ExodusPoint | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -132,21 +132,21 @@ OK means the configured board returned postings; an employer may also post on an
 | Meta | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Airbnb | greenhouse | ok | 157 | 0 |  |
-| Stripe | greenhouse | ok | 714 | 0 |  |
+| Airbnb | greenhouse | ok | 156 | 0 |  |
+| Stripe | greenhouse | error | 0 | 0 | ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=20) |
 | Block | greenhouse | ok | 220 | 0 |  |
 | Robinhood | greenhouse | ok | 160 | 4 |  |
-| Coinbase | greenhouse | ok | 218 | 5 |  |
-| Datadog | greenhouse | ok | 434 | 1 |  |
+| Coinbase | greenhouse | ok | 219 | 5 |  |
+| Datadog | greenhouse | ok | 437 | 1 |  |
 | Snowflake | ashby | ok | 347 | 1 |  |
-| Databricks | greenhouse | ok | 882 | 1 |  |
+| Databricks | greenhouse | ok | 875 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 636 | 0 |  |
+| Anthropic | greenhouse | ok | 635 | 0 |  |
 | OpenAI | ashby | ok | 835 | 0 |  |
 | Perplexity | ashby | ok | 125 | 3 |  |
 | Scale AI | greenhouse | ok | 193 | 0 |  |
-| Cohere | ashby | ok | 137 | 0 |  |
+| Cohere | ashby | ok | 134 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Hugging Face | none | unconfigured | 0 | 0 | No approved listing source configured |
 | xAI | greenhouse | ok | 296 | 0 |  |
@@ -155,7 +155,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Ramp | ashby | ok | 156 | 0 |  |
 | Brex | greenhouse | ok | 269 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Figma | greenhouse | ok | 164 | 0 |  |
+| Figma | greenhouse | ok | 165 | 0 |  |
 | Notion | ashby | ok | 132 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Plaid | ashby | ok | 123 | 0 |  |
@@ -165,15 +165,15 @@ OK means the configured board returned postings; an employer may also post on an
 | Duolingo | greenhouse | ok | 83 | 1 |  |
 | Atlassian | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Wise | greenhouse | ok | 16 | 0 |  |
-| Monzo | greenhouse | ok | 71 | 0 |  |
+| Monzo | greenhouse | ok | 69 | 0 |  |
 | Linear | ashby | ok | 30 | 0 |  |
-| Ashby | ashby | ok | 68 | 0 |  |
+| Ashby | ashby | ok | 67 | 0 |  |
 | Webflow | greenhouse | ok | 26 | 0 |  |
 | Airtable | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Miro | ashby | ok | 26 | 0 |  |
 | Amplitude | greenhouse | error | 0 | 0 | HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/amplitude/jobs |
 | Mixpanel | greenhouse | ok | 72 | 0 |  |
-| Intercom | greenhouse | ok | 109 | 0 |  |
+| Intercom | greenhouse | ok | 108 | 0 |  |
 | PostHog | ashby | ok | 8 | 0 |  |
 | Lattice | greenhouse | ok | 11 | 0 |  |
 | Asana | greenhouse | ok | 96 | 0 |  |
@@ -184,7 +184,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Gradient Labs | ashby | ok | 7 | 0 |  |
 | Gusto | greenhouse | ok | 102 | 0 |  |
 | Chime | greenhouse | ok | 64 | 0 |  |
-| N26 | greenhouse | ok | 49 | 0 |  |
+| N26 | greenhouse | ok | 52 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Pleo | ashby | ok | 36 | 0 |  |
 | Turo | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -193,6 +193,6 @@ OK means the configured board returned postings; an employer may also post on an
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NerdWallet | ashby | ok | 22 | 0 |  |
 | Zocdoc | greenhouse | ok | 60 | 0 |  |
-| Vanta | ashby | ok | 84 | 0 |  |
+| Vanta | ashby | ok | 85 | 0 |  |
 | Carta | greenhouse | ok | 77 | 0 |  |
 | Klarna | none | unconfigured | 0 | 0 | No approved listing source configured |
