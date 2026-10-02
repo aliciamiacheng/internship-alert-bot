@@ -269,6 +269,17 @@
     "title": "General & Administrative 39 positions",
     "url": "https://careers.datadoghq.com/general-and-administrative/"
   },
+  "3765e1963d274f9028cf861fc4af7aa9": {
+    "categories": [
+      "strategy",
+      "startups"
+    ],
+    "company": "xAI",
+    "id": "3765e1963d274f9028cf861fc4af7aa9",
+    "location": "Palo Alto, CA",
+    "title": "Spring 2027 Business Operations Internship/Co-op",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5255113007"
+  },
   "3888a3fa1178368922385336": {
     "categories": [
       "ai",
@@ -724,6 +735,17 @@
     "title": "Product Management Intern (Summer 2027)",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002"
   },
+  "8dce0e64b1eae85f0d0373936e6a19e3": {
+    "categories": [
+      "strategy",
+      "startups"
+    ],
+    "company": "xAI",
+    "id": "8dce0e64b1eae85f0d0373936e6a19e3",
+    "location": "Palo Alto, CA",
+    "title": "Summer 2027 Business Operations Internship/Co-op",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5255116007"
+  },
   "8e5b8bf846de9df493e1a952": {
     "categories": [
       "markets_finance"
@@ -858,240 +880,240 @@
   },
   "_sources": {
     "Airbnb": {
-      "last_count": 149,
-      "last_success_utc": "2026-10-02T12:46:27.582212+00:00"
+      "last_count": 154,
+      "last_success_utc": "2026-10-02T22:19:11.121175+00:00"
     },
     "Akuna Capital": {
       "last_count": 41,
-      "last_success_utc": "2026-10-02T12:46:27.275174+00:00"
+      "last_success_utc": "2026-10-02T22:19:10.854471+00:00"
     },
     "Amplitude": {
       "last_count": 37,
       "last_success_utc": "2026-09-28T14:06:43.443069+00:00"
     },
     "Anthropic": {
-      "last_count": 637,
-      "last_success_utc": "2026-10-02T12:46:28.376137+00:00"
+      "last_count": 640,
+      "last_success_utc": "2026-10-02T22:19:11.891002+00:00"
     },
     "Asana": {
-      "last_count": 96,
-      "last_success_utc": "2026-10-02T12:46:30.421824+00:00"
+      "last_count": 97,
+      "last_success_utc": "2026-10-02T22:19:14.082133+00:00"
     },
     "Ashby": {
-      "last_count": 64,
-      "last_success_utc": "2026-10-02T12:46:29.774836+00:00"
+      "last_count": 61,
+      "last_success_utc": "2026-10-02T22:19:13.629162+00:00"
     },
     "Bessemer Venture Partners": {
       "last_count": 4,
-      "last_success_utc": "2026-10-02T12:46:27.518316+00:00"
+      "last_success_utc": "2026-10-02T22:19:11.060945+00:00"
     },
     "Block": {
-      "last_count": 220,
-      "last_success_utc": "2026-10-02T12:46:27.735333+00:00"
+      "last_count": 227,
+      "last_success_utc": "2026-10-02T22:19:11.272470+00:00"
     },
     "Brex": {
-      "last_count": 271,
-      "last_success_utc": "2026-10-02T12:46:29.175957+00:00"
+      "last_count": 280,
+      "last_success_utc": "2026-10-02T22:19:12.883410+00:00"
     },
     "Carta": {
-      "last_count": 77,
-      "last_success_utc": "2026-10-02T12:46:31.443062+00:00"
+      "last_count": 75,
+      "last_success_utc": "2026-10-02T22:19:14.820013+00:00"
     },
     "Charles River Associates": {
-      "last_count": 88,
-      "last_success_utc": "2026-10-02T12:46:26.794031+00:00"
+      "last_count": 89,
+      "last_success_utc": "2026-10-02T22:19:10.448066+00:00"
     },
     "Check": {
       "last_count": 19,
-      "last_success_utc": "2026-10-02T12:46:30.567836+00:00"
+      "last_success_utc": "2026-10-02T22:19:14.112263+00:00"
     },
     "Chime": {
-      "last_count": 63,
-      "last_success_utc": "2026-10-02T12:46:30.999484+00:00"
+      "last_count": 66,
+      "last_success_utc": "2026-10-02T22:19:14.347578+00:00"
     },
     "Cohere": {
-      "last_count": 133,
-      "last_success_utc": "2026-10-02T12:46:28.963682+00:00"
+      "last_count": 136,
+      "last_success_utc": "2026-10-02T22:19:12.675014+00:00"
     },
     "Coinbase": {
-      "last_count": 222,
-      "last_success_utc": "2026-10-02T12:46:27.890822+00:00"
+      "last_count": 228,
+      "last_success_utc": "2026-10-02T22:19:11.400193+00:00"
     },
     "Databricks": {
-      "last_count": 871,
-      "last_success_utc": "2026-10-02T12:46:28.303591+00:00"
+      "last_count": 886,
+      "last_success_utc": "2026-10-02T22:19:11.826490+00:00"
     },
     "Datadog": {
       "last_count": 442,
-      "last_success_utc": "2026-10-02T12:46:27.987543+00:00"
+      "last_success_utc": "2026-10-02T22:19:11.463020+00:00"
     },
     "Duolingo": {
-      "last_count": 82,
-      "last_success_utc": "2026-10-02T12:46:29.548821+00:00"
+      "last_count": 61,
+      "last_success_utc": "2026-10-02T22:19:13.327161+00:00"
     },
     "Figma": {
-      "last_count": 164,
-      "last_success_utc": "2026-10-02T12:46:29.237350+00:00"
+      "last_count": 163,
+      "last_success_utc": "2026-10-02T22:19:12.938362+00:00"
     },
     "Five Rings": {
       "last_count": 16,
-      "last_success_utc": "2026-10-02T12:46:27.332349+00:00"
+      "last_success_utc": "2026-10-02T22:19:10.906148+00:00"
     },
     "Flow Traders": {
-      "last_count": 46,
-      "last_success_utc": "2026-10-02T12:46:27.394976+00:00"
+      "last_count": 45,
+      "last_success_utc": "2026-10-02T22:19:10.958161+00:00"
     },
     "General Atlantic": {
       "last_count": 10,
-      "last_success_utc": "2026-10-02T12:46:27.454380+00:00"
+      "last_success_utc": "2026-10-02T22:19:11.011499+00:00"
     },
     "Gradient Labs": {
       "last_count": 7,
-      "last_success_utc": "2026-10-02T12:46:30.877114+00:00"
+      "last_success_utc": "2026-10-02T22:19:14.238181+00:00"
     },
     "Gusto": {
-      "last_count": 101,
-      "last_success_utc": "2026-10-02T12:46:30.938775+00:00"
+      "last_count": 96,
+      "last_success_utc": "2026-10-02T22:19:14.299416+00:00"
     },
     "IMC": {
-      "last_count": 167,
-      "last_success_utc": "2026-10-02T12:46:27.143042+00:00"
+      "last_count": 168,
+      "last_success_utc": "2026-10-02T22:19:10.740361+00:00"
     },
     "Intercom": {
-      "last_count": 107,
-      "last_success_utc": "2026-10-02T12:46:30.196332+00:00"
+      "last_count": 108,
+      "last_success_utc": "2026-10-02T22:19:13.913341+00:00"
     },
     "Jane Street": {
-      "last_count": 231,
-      "last_success_utc": "2026-10-02T12:46:26.880044+00:00"
+      "last_count": 230,
+      "last_success_utc": "2026-10-02T22:19:10.513309+00:00"
     },
     "Jump Trading": {
       "last_count": 111,
-      "last_success_utc": "2026-10-02T12:46:27.209490+00:00"
+      "last_success_utc": "2026-10-02T22:19:10.798251+00:00"
     },
     "Lattice": {
-      "last_count": 11,
-      "last_success_utc": "2026-10-02T12:46:30.359251+00:00"
+      "last_count": 12,
+      "last_success_utc": "2026-10-02T22:19:14.024169+00:00"
     },
     "Linear": {
       "last_count": 30,
-      "last_success_utc": "2026-10-02T12:46:29.704117+00:00"
+      "last_success_utc": "2026-10-02T22:19:13.474066+00:00"
     },
     "Man Group": {
       "last_count": 58,
-      "last_success_utc": "2026-10-02T12:46:27.017073+00:00"
+      "last_success_utc": "2026-10-02T22:19:10.622039+00:00"
     },
     "Mercury": {
-      "last_count": 62,
-      "last_success_utc": "2026-10-02T12:46:29.426743+00:00"
+      "last_count": 61,
+      "last_success_utc": "2026-10-02T22:19:13.222757+00:00"
     },
     "Miro": {
-      "last_count": 27,
-      "last_success_utc": "2026-10-02T12:46:29.863011+00:00"
+      "last_count": 28,
+      "last_success_utc": "2026-10-02T22:19:13.762214+00:00"
     },
     "Mixpanel": {
-      "last_count": 66,
-      "last_success_utc": "2026-10-02T12:46:30.062594+00:00"
+      "last_count": 62,
+      "last_success_utc": "2026-10-02T22:19:13.863984+00:00"
     },
     "Monzo": {
       "last_count": 71,
-      "last_success_utc": "2026-10-02T12:46:29.675696+00:00"
+      "last_success_utc": "2026-10-02T22:19:13.441706+00:00"
     },
     "N26": {
-      "last_count": 54,
-      "last_success_utc": "2026-10-02T12:46:31.061078+00:00"
+      "last_count": 52,
+      "last_success_utc": "2026-10-02T22:19:14.401948+00:00"
     },
     "NerdWallet": {
-      "last_count": 22,
-      "last_success_utc": "2026-10-02T12:46:31.258496+00:00"
+      "last_count": 21,
+      "last_success_utc": "2026-10-02T22:19:14.539555+00:00"
     },
     "Notion": {
-      "last_count": 134,
-      "last_success_utc": "2026-10-02T12:46:29.309520+00:00"
+      "last_count": 138,
+      "last_success_utc": "2026-10-02T22:19:13.049996+00:00"
     },
     "Omnea": {
-      "last_count": 50,
-      "last_success_utc": "2026-10-02T12:46:30.782402+00:00"
+      "last_count": 51,
+      "last_success_utc": "2026-10-02T22:19:14.212335+00:00"
     },
     "OpenAI": {
-      "last_count": 833,
-      "last_success_utc": "2026-10-02T12:46:28.764606+00:00"
+      "last_count": 826,
+      "last_success_utc": "2026-10-02T22:19:12.417918+00:00"
     },
     "Perplexity": {
-      "last_count": 124,
-      "last_success_utc": "2026-10-02T12:46:28.824221+00:00"
+      "last_count": 125,
+      "last_success_utc": "2026-10-02T22:19:12.497457+00:00"
     },
     "Plaid": {
       "last_count": 122,
-      "last_success_utc": "2026-10-02T12:46:29.367237+00:00"
+      "last_success_utc": "2026-10-02T22:19:13.169152+00:00"
     },
     "Pleo": {
       "last_count": 34,
-      "last_success_utc": "2026-10-02T12:46:31.164554+00:00"
+      "last_success_utc": "2026-10-02T22:19:14.442594+00:00"
     },
     "Point72": {
-      "last_count": 213,
-      "last_success_utc": "2026-10-02T12:46:26.955326+00:00"
+      "last_count": 212,
+      "last_success_utc": "2026-10-02T22:19:10.571911+00:00"
     },
     "PostHog": {
       "last_count": 8,
-      "last_success_utc": "2026-10-02T12:46:30.220689+00:00"
+      "last_success_utc": "2026-10-02T22:19:13.976289+00:00"
     },
     "Ramp": {
       "last_count": 158,
-      "last_success_utc": "2026-10-02T12:46:29.111369+00:00"
+      "last_success_utc": "2026-10-02T22:19:12.828932+00:00"
     },
     "Robinhood": {
-      "last_count": 161,
-      "last_success_utc": "2026-10-02T12:46:27.808770+00:00"
+      "last_count": 162,
+      "last_success_utc": "2026-10-02T22:19:11.332613+00:00"
     },
     "Scale AI": {
-      "last_count": 194,
-      "last_success_utc": "2026-10-02T12:46:28.896309+00:00"
+      "last_count": 192,
+      "last_success_utc": "2026-10-02T22:19:12.557151+00:00"
     },
     "Schonfeld": {
-      "last_count": 74,
-      "last_success_utc": "2026-10-02T12:46:27.078249+00:00"
+      "last_count": 72,
+      "last_success_utc": "2026-10-02T22:19:10.682330+00:00"
     },
     "Snowflake": {
-      "last_count": 345,
-      "last_success_utc": "2026-10-02T12:46:28.205477+00:00"
+      "last_count": 347,
+      "last_success_utc": "2026-10-02T22:19:11.750055+00:00"
     },
     "Stripe": {
-      "last_count": 711,
-      "last_success_utc": "2026-10-02T12:46:27.661364+00:00"
+      "last_count": 713,
+      "last_success_utc": "2026-10-02T22:19:11.198726+00:00"
     },
     "Taktile": {
-      "last_count": 39,
-      "last_success_utc": "2026-10-02T12:46:30.667452+00:00"
+      "last_count": 38,
+      "last_success_utc": "2026-10-02T22:19:14.156932+00:00"
     },
     "Tripadvisor": {
       "last_count": 100,
-      "last_success_utc": "2026-10-02T12:46:31.229338+00:00"
+      "last_success_utc": "2026-10-02T22:19:14.498278+00:00"
     },
     "Vanta": {
-      "last_count": 82,
-      "last_success_utc": "2026-10-02T12:46:31.383634+00:00"
+      "last_count": 84,
+      "last_success_utc": "2026-10-02T22:19:14.730783+00:00"
     },
     "Vercel": {
-      "last_count": 89,
-      "last_success_utc": "2026-10-02T12:46:29.485342+00:00"
+      "last_count": 86,
+      "last_success_utc": "2026-10-02T22:19:13.274508+00:00"
     },
     "Webflow": {
-      "last_count": 27,
-      "last_success_utc": "2026-10-02T12:46:29.836667+00:00"
+      "last_count": 25,
+      "last_success_utc": "2026-10-02T22:19:13.686492+00:00"
     },
     "Wise": {
       "last_count": 16,
-      "last_success_utc": "2026-10-02T12:46:29.607700+00:00"
+      "last_success_utc": "2026-10-02T22:19:13.383038+00:00"
     },
     "Zocdoc": {
-      "last_count": 60,
-      "last_success_utc": "2026-10-02T12:46:31.323732+00:00"
+      "last_count": 58,
+      "last_success_utc": "2026-10-02T22:19:14.628747+00:00"
     },
     "xAI": {
-      "last_count": 297,
-      "last_success_utc": "2026-10-02T12:46:29.028433+00:00"
+      "last_count": 302,
+      "last_success_utc": "2026-10-02T22:19:12.733628+00:00"
     }
   },
   "a0ebb962cbbc84386acbd08c": {
@@ -1425,6 +1447,16 @@
     "title": "Accacia 10 job s Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet Seed Artificial Intelligence (AI) Greentech Real Estate Software Technology, Information and Internet + 99 more Accacia is an AI-enabled real-estate decarbonization platform that allows RE and infrastructure owners, developers, asset managers, and operators to measure, track, and manage their climate risks. View 10 jobs",
     "url": "https://www.accel.com/companies/accacia#content"
   },
+  "d8ced6fe43828cdc9d375abcfcc6f20c": {
+    "categories": [
+      "consulting"
+    ],
+    "company": "Charles River Associates",
+    "id": "d8ced6fe43828cdc9d375abcfcc6f20c",
+    "location": "Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom",
+    "title": "Intern/Strategy Consulting (Life Sciences practice) - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8199212"
+  },
   "d93e7d486ad8f9139a9b36a4": {
     "categories": [
       "markets_finance"
@@ -1494,6 +1526,16 @@
     "location": "Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States",
     "title": "(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288"
+  },
+  "e234db5fb845bfec1b6d1e7068b14e9f": {
+    "categories": [
+      "consulting"
+    ],
+    "company": "Charles River Associates",
+    "id": "e234db5fb845bfec1b6d1e7068b14e9f",
+    "location": "Cambridge, Cambridgeshire, England, United Kingdom; London, United Kingdom",
+    "title": "Intern/Policy Consulting (Life Sciences practice) - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8249052"
   },
   "e35657e385e3bd0e07fca721": {
     "categories": [
