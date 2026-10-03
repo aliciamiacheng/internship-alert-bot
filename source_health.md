@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-03T06:03:18.365612+00:00
+Checked: 2026-10-03T11:46:48.703512+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -139,7 +139,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Coinbase | greenhouse | ok | 229 | 5 |  |
 | Datadog | greenhouse | ok | 445 | 1 |  |
 | Snowflake | ashby | ok | 347 | 0 |  |
-| Databricks | greenhouse | ok | 886 | 1 |  |
+| Databricks | greenhouse | ok | 885 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 641 | 0 |  |
@@ -186,10 +186,10 @@ OK means the configured board returned postings; an employer may also post on an
 | Chime | greenhouse | ok | 66 | 0 |  |
 | N26 | greenhouse | ok | 52 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Pleo | ashby | ok | 34 | 0 |  |
+| Pleo | ashby | ok | 32 | 0 |  |
 | Turo | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Klook | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Tripadvisor | greenhouse | ok | 100 | 0 |  |
+| Tripadvisor | greenhouse | ok | 99 | 0 |  |
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NerdWallet | ashby | ok | 20 | 0 |  |
 | Zocdoc | greenhouse | ok | 58 | 0 |  |

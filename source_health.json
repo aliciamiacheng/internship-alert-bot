@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-03T06:03:18.365612+00:00",
+  "checked_at_utc": "2026-10-03T11:46:48.703512+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 886,
+      "listings": 885,
       "matches": 1,
       "detail": ""
     },
@@ -1429,7 +1429,7 @@
       "company": "Pleo",
       "source": "ashby",
       "status": "ok",
-      "listings": 34,
+      "listings": 32,
       "matches": 0,
       "detail": ""
     },
@@ -1453,7 +1453,7 @@
       "company": "Tripadvisor",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 100,
+      "listings": 99,
       "matches": 0,
       "detail": ""
     },
