@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-03T05:25:17.792378+00:00",
+  "checked_at_utc": "2026-10-03T06:03:18.365612+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 829,
+      "listings": 830,
       "matches": 0,
       "detail": ""
     },
@@ -1307,11 +1307,11 @@
     },
     {
       "company": "Amplitude",
-      "source": "greenhouse",
-      "status": "error",
-      "listings": 0,
+      "source": "ashby",
+      "status": "ok",
+      "listings": 36,
       "matches": 0,
-      "detail": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/amplitude/jobs"
+      "detail": ""
     },
     {
       "company": "Mixpanel",

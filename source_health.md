@@ -1,8 +1,8 @@
 # Internship source verification
 
-Checked: 2026-10-03T05:25:17.792378+00:00
+Checked: 2026-10-03T06:03:18.365612+00:00
 
-error: 1 | ok: 58 | unconfigured: 129
+ok: 59 | unconfigured: 129
 
 OK means the configured board returned postings; an employer may also post on another portal. Unconfigured and error sources need attention.
 
@@ -143,7 +143,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 641 | 0 |  |
-| OpenAI | ashby | ok | 829 | 0 |  |
+| OpenAI | ashby | ok | 830 | 0 |  |
 | Perplexity | ashby | ok | 127 | 3 |  |
 | Scale AI | greenhouse | ok | 192 | 0 |  |
 | Cohere | ashby | ok | 136 | 0 |  |
@@ -171,7 +171,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Webflow | greenhouse | ok | 25 | 0 |  |
 | Airtable | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Miro | ashby | ok | 28 | 0 |  |
-| Amplitude | greenhouse | error | 0 | 0 | HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/amplitude/jobs |
+| Amplitude | ashby | ok | 36 | 0 |  |
 | Mixpanel | greenhouse | ok | 63 | 0 |  |
 | Intercom | greenhouse | ok | 108 | 0 |  |
 | PostHog | ashby | ok | 8 | 0 |  |
