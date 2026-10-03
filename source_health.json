@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-03T16:27:46.797909+00:00",
+  "checked_at_utc": "2026-10-03T21:24:09.975745+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1045,7 +1045,7 @@
       "company": "Snowflake",
       "source": "ashby",
       "status": "ok",
-      "listings": 347,
+      "listings": 348,
       "matches": 0,
       "detail": ""
     },
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 640,
+      "listings": 639,
       "matches": 0,
       "detail": ""
     },
@@ -1237,7 +1237,7 @@
       "company": "Duolingo",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 61,
+      "listings": 59,
       "matches": 1,
       "detail": ""
     },
@@ -1453,7 +1453,7 @@
       "company": "Tripadvisor",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 99,
+      "listings": 100,
       "matches": 0,
       "detail": ""
     },

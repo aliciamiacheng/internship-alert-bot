@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-03T16:27:46.797909+00:00
+Checked: 2026-10-03T21:24:09.975745+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -138,11 +138,11 @@ OK means the configured board returned postings; an employer may also post on an
 | Robinhood | greenhouse | ok | 162 | 4 |  |
 | Coinbase | greenhouse | ok | 229 | 5 |  |
 | Datadog | greenhouse | ok | 445 | 1 |  |
-| Snowflake | ashby | ok | 347 | 0 |  |
+| Snowflake | ashby | ok | 348 | 0 |  |
 | Databricks | greenhouse | ok | 886 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 640 | 0 |  |
+| Anthropic | greenhouse | ok | 639 | 0 |  |
 | OpenAI | ashby | ok | 828 | 0 |  |
 | Perplexity | ashby | ok | 127 | 3 |  |
 | Scale AI | greenhouse | ok | 192 | 0 |  |
@@ -162,7 +162,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Mercury | greenhouse | ok | 61 | 0 |  |
 | Deel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Vercel | greenhouse | ok | 85 | 0 |  |
-| Duolingo | greenhouse | ok | 61 | 1 |  |
+| Duolingo | greenhouse | ok | 59 | 1 |  |
 | Atlassian | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Wise | greenhouse | ok | 16 | 0 |  |
 | Monzo | greenhouse | ok | 71 | 0 |  |
@@ -189,7 +189,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Pleo | ashby | ok | 32 | 0 |  |
 | Turo | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Klook | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Tripadvisor | greenhouse | ok | 99 | 0 |  |
+| Tripadvisor | greenhouse | ok | 100 | 0 |  |
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NerdWallet | ashby | ok | 20 | 0 |  |
 | Zocdoc | greenhouse | ok | 58 | 0 |  |
