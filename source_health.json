@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-03T21:24:09.975745+00:00",
+  "checked_at_utc": "2026-10-04T06:01:13.237380+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1037,7 +1037,7 @@
       "company": "Datadog",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 445,
+      "listings": 444,
       "matches": 1,
       "detail": ""
     },
