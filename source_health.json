@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-04T12:29:21.573542+00:00",
+  "checked_at_utc": "2026-10-04T21:35:42.450847+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1045,7 +1045,7 @@
       "company": "Snowflake",
       "source": "ashby",
       "status": "ok",
-      "listings": 348,
+      "listings": 347,
       "matches": 0,
       "detail": ""
     },
@@ -1157,7 +1157,7 @@
       "company": "Ramp",
       "source": "ashby",
       "status": "ok",
-      "listings": 157,
+      "listings": 158,
       "matches": 0,
       "detail": ""
     },
@@ -1485,7 +1485,7 @@
       "company": "Vanta",
       "source": "ashby",
       "status": "ok",
-      "listings": 84,
+      "listings": 83,
       "matches": 0,
       "detail": ""
     },

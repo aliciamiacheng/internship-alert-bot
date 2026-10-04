@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-04T12:29:21.573542+00:00
+Checked: 2026-10-04T21:35:42.450847+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -138,7 +138,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Robinhood | greenhouse | ok | 162 | 4 |  |
 | Coinbase | greenhouse | ok | 229 | 5 |  |
 | Datadog | greenhouse | ok | 444 | 1 |  |
-| Snowflake | ashby | ok | 348 | 0 |  |
+| Snowflake | ashby | ok | 347 | 0 |  |
 | Databricks | greenhouse | ok | 887 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -152,7 +152,7 @@ OK means the configured board returned postings; an employer may also post on an
 | xAI | greenhouse | ok | 301 | 2 |  |
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Ramp | ashby | ok | 157 | 0 |  |
+| Ramp | ashby | ok | 158 | 0 |  |
 | Brex | greenhouse | ok | 282 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Figma | greenhouse | ok | 162 | 0 |  |
@@ -193,6 +193,6 @@ OK means the configured board returned postings; an employer may also post on an
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NerdWallet | ashby | ok | 20 | 0 |  |
 | Zocdoc | greenhouse | ok | 58 | 0 |  |
-| Vanta | ashby | ok | 84 | 0 |  |
+| Vanta | ashby | ok | 83 | 0 |  |
 | Carta | greenhouse | ok | 75 | 0 |  |
 | Klarna | none | unconfigured | 0 | 0 | No approved listing source configured |
