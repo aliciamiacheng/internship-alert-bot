@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-04T21:35:42.450847+00:00
+Checked: 2026-10-05T05:50:27.456392+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -132,14 +132,14 @@ OK means the configured board returned postings; an employer may also post on an
 | Meta | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Airbnb | greenhouse | ok | 154 | 0 |  |
-| Stripe | greenhouse | ok | 716 | 0 |  |
+| Airbnb | greenhouse | ok | 151 | 0 |  |
+| Stripe | greenhouse | ok | 717 | 0 |  |
 | Block | greenhouse | ok | 227 | 0 |  |
 | Robinhood | greenhouse | ok | 162 | 4 |  |
 | Coinbase | greenhouse | ok | 229 | 5 |  |
-| Datadog | greenhouse | ok | 444 | 1 |  |
+| Datadog | greenhouse | ok | 443 | 1 |  |
 | Snowflake | ashby | ok | 347 | 0 |  |
-| Databricks | greenhouse | ok | 887 | 1 |  |
+| Databricks | greenhouse | ok | 885 | 1 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 639 | 0 |  |
@@ -156,7 +156,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Brex | greenhouse | ok | 282 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Figma | greenhouse | ok | 162 | 0 |  |
-| Notion | ashby | ok | 137 | 0 |  |
+| Notion | ashby | ok | 136 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Plaid | ashby | ok | 119 | 0 |  |
 | Mercury | greenhouse | ok | 61 | 0 |  |
