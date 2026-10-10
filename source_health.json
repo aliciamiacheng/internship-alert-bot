@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-10T06:00:17.544969+00:00",
+  "checked_at_utc": "2026-10-10T12:40:43.726133+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -997,7 +997,7 @@
       "company": "Airbnb",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 161,
+      "listings": 160,
       "matches": 0,
       "detail": ""
     },
@@ -1005,7 +1005,7 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 729,
+      "listings": 728,
       "matches": 0,
       "detail": ""
     },
