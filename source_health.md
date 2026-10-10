@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-10T12:40:43.726133+00:00
+Checked: 2026-10-10T21:50:16.602425+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -145,7 +145,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Anthropic | greenhouse | ok | 645 | 0 |  |
 | OpenAI | ashby | ok | 815 | 0 |  |
 | Perplexity | ashby | ok | 132 | 3 |  |
-| Scale AI | greenhouse | ok | 183 | 0 |  |
+| Scale AI | greenhouse | ok | 182 | 0 |  |
 | Cohere | ashby | ok | 119 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Hugging Face | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -183,7 +183,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Omnea | ashby | ok | 57 | 0 |  |
 | Gradient Labs | ashby | ok | 8 | 0 |  |
 | Gusto | greenhouse | ok | 97 | 0 |  |
-| Chime | greenhouse | ok | 68 | 0 |  |
+| Chime | greenhouse | ok | 67 | 0 |  |
 | N26 | greenhouse | ok | 44 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Pleo | ashby | ok | 34 | 0 |  |
