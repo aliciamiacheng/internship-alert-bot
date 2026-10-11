@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-10T21:50:16.602425+00:00",
+  "checked_at_utc": "2026-10-11T05:56:50.502441+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1005,7 +1005,7 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 728,
+      "listings": 729,
       "matches": 0,
       "detail": ""
     },
@@ -1045,7 +1045,7 @@
       "company": "Snowflake",
       "source": "ashby",
       "status": "ok",
-      "listings": 358,
+      "listings": 359,
       "matches": 0,
       "detail": ""
     },
