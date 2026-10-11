@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-11T13:01:15.991108+00:00
+Checked: 2026-10-11T22:04:30.539210+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -132,10 +132,10 @@ OK means the configured board returned postings; an employer may also post on an
 | Meta | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Airbnb | greenhouse | ok | 160 | 0 |  |
-| Stripe | greenhouse | ok | 728 | 0 |  |
+| Airbnb | greenhouse | ok | 161 | 0 |  |
+| Stripe | greenhouse | ok | 727 | 0 |  |
 | Block | greenhouse | ok | 231 | 0 |  |
-| Robinhood | greenhouse | ok | 182 | 3 |  |
+| Robinhood | greenhouse | ok | 181 | 3 |  |
 | Coinbase | greenhouse | ok | 222 | 4 |  |
 | Datadog | greenhouse | ok | 435 | 1 |  |
 | Snowflake | ashby | ok | 358 | 0 |  |
@@ -143,7 +143,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 645 | 0 |  |
-| OpenAI | ashby | ok | 815 | 0 |  |
+| OpenAI | ashby | ok | 812 | 0 |  |
 | Perplexity | ashby | ok | 132 | 3 |  |
 | Scale AI | greenhouse | ok | 182 | 0 |  |
 | Cohere | ashby | ok | 119 | 0 |  |
@@ -155,7 +155,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Ramp | ashby | ok | 165 | 0 |  |
 | Brex | greenhouse | ok | 277 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Figma | greenhouse | ok | 150 | 0 |  |
+| Figma | greenhouse | ok | 151 | 0 |  |
 | Notion | ashby | ok | 132 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Plaid | ashby | ok | 121 | 0 |  |
@@ -184,7 +184,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Gradient Labs | ashby | ok | 8 | 0 |  |
 | Gusto | greenhouse | ok | 97 | 0 |  |
 | Chime | greenhouse | ok | 67 | 0 |  |
-| N26 | greenhouse | ok | 44 | 0 |  |
+| N26 | greenhouse | ok | 42 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Pleo | ashby | ok | 34 | 0 |  |
 | Turo | none | unconfigured | 0 | 0 | No approved listing source configured |
