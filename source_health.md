@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-13T14:20:19.918391+00:00
+Checked: 2026-10-13T22:52:42.548357+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -80,25 +80,25 @@ OK means the configured board returned postings; an employer may also post on an
 | AQR Capital Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Balyasny Asset Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Millennium | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Man Group | greenhouse | ok | 54 | 1 |  |
+| Man Group | greenhouse | ok | 57 | 1 |  |
 | Marshall Wace | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Brevan Howard | none | unconfigured | 0 | 0 | No approved listing source configured |
 | ExodusPoint | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Soros Fund Management | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Schonfeld | greenhouse | ok | 66 | 4 |  |
+| Schonfeld | greenhouse | ok | 65 | 4 |  |
 | Squarepoint | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Qube Research & Technologies | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Optiver | none | unconfigured | 0 | 0 | No approved listing source configured |
 | IMC | greenhouse | ok | 174 | 5 |  |
 | Hudson River Trading | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Jump Trading | greenhouse | ok | 105 | 4 |  |
+| Jump Trading | greenhouse | ok | 104 | 4 |  |
 | DRW | none | unconfigured | 0 | 0 | No approved listing source configured |
 | SIG | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Virtu Financial | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Akuna Capital | greenhouse | ok | 41 | 2 |  |
+| Akuna Capital | greenhouse | ok | 40 | 2 |  |
 | Five Rings | greenhouse | ok | 17 | 1 |  |
 | Belvedere Trading | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Flow Traders | greenhouse | ok | 47 | 1 |  |
+| Flow Traders | greenhouse | ok | 48 | 2 |  |
 | BP Trading & Shipping | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Blackstone | none | unconfigured | 0 | 0 | No approved listing source configured |
 | KKR | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -119,7 +119,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Sequoia Capital | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Andreessen Horowitz | none | unconfigured | 0 | 0 | No approved listing source configured |
 | General Catalyst | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Bessemer Venture Partners | greenhouse | ok | 4 | 0 |  |
+| Bessemer Venture Partners | greenhouse | ok | 1 | 0 |  |
 | Lightspeed Venture Partners | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Accel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NEA | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -133,66 +133,66 @@ OK means the configured board returned postings; an employer may also post on an
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 164 | 0 |  |
-| Stripe | greenhouse | ok | 722 | 0 |  |
-| Block | greenhouse | ok | 231 | 0 |  |
-| Robinhood | greenhouse | ok | 178 | 3 |  |
-| Coinbase | greenhouse | ok | 225 | 4 |  |
-| Datadog | greenhouse | ok | 437 | 1 |  |
+| Stripe | greenhouse | ok | 725 | 0 |  |
+| Block | greenhouse | ok | 230 | 0 |  |
+| Robinhood | greenhouse | ok | 177 | 3 |  |
+| Coinbase | greenhouse | ok | 226 | 4 |  |
+| Datadog | greenhouse | ok | 439 | 1 |  |
 | Snowflake | ashby | ok | 356 | 0 |  |
-| Databricks | greenhouse | ok | 897 | 2 |  |
+| Databricks | greenhouse | ok | 896 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 646 | 0 |  |
-| OpenAI | ashby | ok | 805 | 0 |  |
-| Perplexity | ashby | ok | 134 | 3 |  |
-| Scale AI | greenhouse | ok | 184 | 0 |  |
-| Cohere | ashby | ok | 117 | 0 |  |
+| Anthropic | greenhouse | ok | 645 | 0 |  |
+| OpenAI | ashby | ok | 806 | 0 |  |
+| Perplexity | ashby | ok | 133 | 3 |  |
+| Scale AI | greenhouse | ok | 183 | 0 |  |
+| Cohere | ashby | ok | 116 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Hugging Face | none | unconfigured | 0 | 0 | No approved listing source configured |
-| xAI | greenhouse | ok | 307 | 2 |  |
+| xAI | greenhouse | ok | 308 | 2 |  |
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Ramp | ashby | ok | 165 | 0 |  |
-| Brex | greenhouse | ok | 269 | 0 |  |
+| Ramp | ashby | ok | 162 | 0 |  |
+| Brex | greenhouse | ok | 268 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Figma | greenhouse | ok | 148 | 0 |  |
+| Figma | greenhouse | ok | 143 | 0 |  |
 | Notion | ashby | ok | 130 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Plaid | ashby | ok | 121 | 0 |  |
+| Plaid | ashby | ok | 122 | 0 |  |
 | Mercury | greenhouse | ok | 70 | 0 |  |
 | Deel | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Vercel | greenhouse | ok | 90 | 0 |  |
-| Duolingo | greenhouse | ok | 60 | 0 |  |
+| Vercel | greenhouse | ok | 88 | 0 |  |
+| Duolingo | greenhouse | ok | 59 | 0 |  |
 | Atlassian | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Wise | greenhouse | ok | 20 | 0 |  |
-| Monzo | greenhouse | ok | 66 | 0 |  |
+| Monzo | greenhouse | ok | 67 | 0 |  |
 | Linear | ashby | ok | 31 | 0 |  |
-| Ashby | ashby | ok | 66 | 0 |  |
+| Ashby | ashby | ok | 63 | 0 |  |
 | Webflow | greenhouse | ok | 23 | 0 |  |
 | Airtable | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Miro | ashby | ok | 23 | 0 |  |
-| Amplitude | ashby | ok | 39 | 0 |  |
-| Mixpanel | greenhouse | ok | 55 | 0 |  |
-| Intercom | greenhouse | ok | 107 | 0 |  |
+| Amplitude | ashby | ok | 38 | 0 |  |
+| Mixpanel | greenhouse | ok | 53 | 0 |  |
+| Intercom | greenhouse | ok | 110 | 0 |  |
 | PostHog | ashby | ok | 10 | 0 |  |
 | Lattice | greenhouse | ok | 11 | 0 |  |
 | Asana | greenhouse | ok | 103 | 0 |  |
 | Monday.com | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Check | ashby | ok | 19 | 0 |  |
-| Taktile | ashby | ok | 39 | 0 |  |
+| Taktile | ashby | ok | 37 | 0 |  |
 | Omnea | ashby | ok | 58 | 0 |  |
 | Gradient Labs | ashby | ok | 8 | 0 |  |
-| Gusto | greenhouse | ok | 99 | 0 |  |
-| Chime | greenhouse | ok | 66 | 0 |  |
+| Gusto | greenhouse | ok | 97 | 0 |  |
+| Chime | greenhouse | ok | 69 | 0 |  |
 | N26 | greenhouse | ok | 37 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Pleo | ashby | ok | 30 | 0 |  |
+| Pleo | ashby | ok | 31 | 0 |  |
 | Turo | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Klook | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Tripadvisor | greenhouse | ok | 103 | 0 |  |
+| Tripadvisor | greenhouse | ok | 105 | 0 |  |
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NerdWallet | ashby | ok | 20 | 0 |  |
 | Zocdoc | greenhouse | ok | 58 | 0 |  |
-| Vanta | ashby | ok | 83 | 0 |  |
+| Vanta | ashby | ok | 82 | 0 |  |
 | Carta | greenhouse | ok | 72 | 0 |  |
 | Klarna | none | unconfigured | 0 | 0 | No approved listing source configured |
