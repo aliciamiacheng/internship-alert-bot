@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-13T22:52:42.548357+00:00
+Checked: 2026-10-14T05:01:07.183268+00:00
 
 ok: 59 | unconfigured: 129
 
@@ -132,36 +132,36 @@ OK means the configured board returned postings; an employer may also post on an
 | Meta | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Airbnb | greenhouse | ok | 164 | 0 |  |
-| Stripe | greenhouse | ok | 725 | 0 |  |
+| Airbnb | greenhouse | ok | 165 | 0 |  |
+| Stripe | greenhouse | ok | 723 | 0 |  |
 | Block | greenhouse | ok | 230 | 0 |  |
-| Robinhood | greenhouse | ok | 177 | 3 |  |
+| Robinhood | greenhouse | ok | 175 | 3 |  |
 | Coinbase | greenhouse | ok | 226 | 4 |  |
-| Datadog | greenhouse | ok | 439 | 1 |  |
-| Snowflake | ashby | ok | 356 | 0 |  |
-| Databricks | greenhouse | ok | 896 | 2 |  |
+| Datadog | greenhouse | ok | 438 | 1 |  |
+| Snowflake | ashby | ok | 358 | 0 |  |
+| Databricks | greenhouse | ok | 894 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 645 | 0 |  |
-| OpenAI | ashby | ok | 806 | 0 |  |
+| Anthropic | greenhouse | ok | 647 | 0 |  |
+| OpenAI | ashby | ok | 810 | 0 |  |
 | Perplexity | ashby | ok | 133 | 3 |  |
 | Scale AI | greenhouse | ok | 183 | 0 |  |
-| Cohere | ashby | ok | 116 | 0 |  |
+| Cohere | ashby | ok | 117 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Hugging Face | none | unconfigured | 0 | 0 | No approved listing source configured |
-| xAI | greenhouse | ok | 308 | 2 |  |
+| xAI | greenhouse | ok | 304 | 2 |  |
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Ramp | ashby | ok | 162 | 0 |  |
 | Brex | greenhouse | ok | 268 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Figma | greenhouse | ok | 143 | 0 |  |
-| Notion | ashby | ok | 130 | 0 |  |
+| Figma | greenhouse | ok | 144 | 0 |  |
+| Notion | ashby | ok | 131 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Plaid | ashby | ok | 122 | 0 |  |
-| Mercury | greenhouse | ok | 70 | 0 |  |
+| Mercury | greenhouse | ok | 71 | 0 |  |
 | Deel | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Vercel | greenhouse | ok | 88 | 0 |  |
+| Vercel | greenhouse | ok | 89 | 0 |  |
 | Duolingo | greenhouse | ok | 59 | 0 |  |
 | Atlassian | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Wise | greenhouse | ok | 20 | 0 |  |
@@ -175,14 +175,14 @@ OK means the configured board returned postings; an employer may also post on an
 | Mixpanel | greenhouse | ok | 53 | 0 |  |
 | Intercom | greenhouse | ok | 110 | 0 |  |
 | PostHog | ashby | ok | 10 | 0 |  |
-| Lattice | greenhouse | ok | 11 | 0 |  |
-| Asana | greenhouse | ok | 103 | 0 |  |
+| Lattice | greenhouse | ok | 9 | 0 |  |
+| Asana | greenhouse | ok | 104 | 0 |  |
 | Monday.com | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Check | ashby | ok | 19 | 0 |  |
 | Taktile | ashby | ok | 37 | 0 |  |
 | Omnea | ashby | ok | 58 | 0 |  |
 | Gradient Labs | ashby | ok | 8 | 0 |  |
-| Gusto | greenhouse | ok | 97 | 0 |  |
+| Gusto | greenhouse | ok | 101 | 0 |  |
 | Chime | greenhouse | ok | 69 | 0 |  |
 | N26 | greenhouse | ok | 37 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -194,5 +194,5 @@ OK means the configured board returned postings; an employer may also post on an
 | NerdWallet | ashby | ok | 20 | 0 |  |
 | Zocdoc | greenhouse | ok | 58 | 0 |  |
 | Vanta | ashby | ok | 82 | 0 |  |
-| Carta | greenhouse | ok | 72 | 0 |  |
+| Carta | greenhouse | ok | 74 | 0 |  |
 | Klarna | none | unconfigured | 0 | 0 | No approved listing source configured |
