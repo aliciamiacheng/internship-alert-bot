@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-16T04:39:45.766957+00:00",
+  "checked_at_utc": "2026-10-16T11:32:57.935543+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -533,8 +533,8 @@
       "company": "Point72",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 221,
-      "matches": 6,
+      "listings": 222,
+      "matches": 5,
       "detail": ""
     },
     {
@@ -725,7 +725,7 @@
       "company": "Flow Traders",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 47,
+      "listings": 46,
       "matches": 2,
       "detail": ""
     },
@@ -997,15 +997,15 @@
       "company": "Airbnb",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 163,
-      "matches": 1,
+      "listings": 168,
+      "matches": 0,
       "detail": ""
     },
     {
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 725,
+      "listings": 728,
       "matches": 0,
       "detail": ""
     },
@@ -1013,7 +1013,7 @@
       "company": "Block",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 224,
+      "listings": 225,
       "matches": 0,
       "detail": ""
     },
@@ -1037,7 +1037,7 @@
       "company": "Datadog",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 439,
+      "listings": 435,
       "matches": 1,
       "detail": ""
     },
@@ -1045,7 +1045,7 @@
       "company": "Snowflake",
       "source": "ashby",
       "status": "ok",
-      "listings": 357,
+      "listings": 359,
       "matches": 0,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 898,
+      "listings": 899,
       "matches": 2,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 802,
+      "listings": 801,
       "matches": 0,
       "detail": ""
     },
@@ -1101,7 +1101,7 @@
       "company": "Scale AI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 179,
+      "listings": 180,
       "matches": 0,
       "detail": ""
     },
@@ -1261,7 +1261,7 @@
       "company": "Monzo",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 69,
+      "listings": 71,
       "matches": 0,
       "detail": ""
     },
@@ -1317,7 +1317,7 @@
       "company": "Mixpanel",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 52,
+      "listings": 50,
       "matches": 0,
       "detail": ""
     },
@@ -1413,7 +1413,7 @@
       "company": "N26",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 34,
+      "listings": 33,
       "matches": 0,
       "detail": ""
     },
@@ -1453,7 +1453,7 @@
       "company": "Tripadvisor",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 98,
+      "listings": 97,
       "matches": 0,
       "detail": ""
     },
@@ -1485,7 +1485,7 @@
       "company": "Vanta",
       "source": "ashby",
       "status": "ok",
-      "listings": 84,
+      "listings": 86,
       "matches": 0,
       "detail": ""
     },
