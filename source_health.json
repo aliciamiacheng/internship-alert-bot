@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-17T15:41:46.552443+00:00",
+  "checked_at_utc": "2026-10-17T20:41:49.654495+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1021,7 +1021,7 @@
       "company": "Robinhood",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 153,
+      "listings": 152,
       "matches": 0,
       "detail": ""
     },
@@ -1133,7 +1133,7 @@
       "company": "xAI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 305,
+      "listings": 304,
       "matches": 2,
       "detail": ""
     },
