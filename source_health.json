@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-18T15:56:33.370400+00:00",
+  "checked_at_utc": "2026-10-18T20:51:37.253611+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -997,7 +997,7 @@
       "company": "Airbnb",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 174,
+      "listings": 173,
       "matches": 0,
       "detail": ""
     },
@@ -1021,7 +1021,7 @@
       "company": "Robinhood",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 152,
+      "listings": 153,
       "matches": 0,
       "detail": ""
     },
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 656,
+      "listings": 655,
       "matches": 0,
       "detail": ""
     },
@@ -1205,7 +1205,7 @@
       "company": "Plaid",
       "source": "ashby",
       "status": "ok",
-      "listings": 128,
+      "listings": 127,
       "matches": 0,
       "detail": ""
     },
