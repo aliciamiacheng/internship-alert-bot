@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-18T04:42:42.416551+00:00
+Checked: 2026-10-18T11:18:10.539086+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -132,8 +132,8 @@ OK means the configured board returned postings; an employer may also post on an
 | Meta | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Airbnb | greenhouse | ok | 173 | 0 |  |
-| Stripe | greenhouse | ok | 732 | 0 |  |
+| Airbnb | greenhouse | ok | 174 | 0 |  |
+| Stripe | greenhouse | ok | 731 | 0 |  |
 | Block | greenhouse | ok | 221 | 0 |  |
 | Robinhood | greenhouse | ok | 152 | 0 |  |
 | Coinbase | greenhouse | ok | 226 | 4 |  |
@@ -186,7 +186,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Chime | greenhouse | ok | 72 | 0 |  |
 | N26 | greenhouse | ok | 35 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Pleo | ashby | ok | 27 | 0 |  |
+| Pleo | ashby | ok | 28 | 0 |  |
 | Turo | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Klook | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Tripadvisor | greenhouse | ok | 96 | 0 |  |
