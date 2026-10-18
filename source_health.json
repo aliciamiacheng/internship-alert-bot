@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-17T20:41:49.654495+00:00",
+  "checked_at_utc": "2026-10-18T04:42:42.416551+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 814,
+      "listings": 813,
       "matches": 0,
       "detail": ""
     },
