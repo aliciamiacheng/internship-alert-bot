@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-24T16:02:21.574169+00:00
+Checked: 2026-10-24T20:56:27.047751+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -176,7 +176,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Intercom | greenhouse | ok | 104 | 0 |  |
 | PostHog | ashby | ok | 10 | 0 |  |
 | Lattice | greenhouse | ok | 7 | 0 |  |
-| Asana | greenhouse | ok | 108 | 0 |  |
+| Asana | greenhouse | ok | 109 | 0 |  |
 | Monday.com | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Check | ashby | ok | 18 | 0 |  |
 | Taktile | ashby | ok | 34 | 0 |  |
