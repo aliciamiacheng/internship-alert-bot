@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-24T04:45:05.939578+00:00
+Checked: 2026-10-24T11:12:23.346763+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -133,16 +133,16 @@ OK means the configured board returned postings; an employer may also post on an
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 191 | 0 |  |
-| Stripe | greenhouse | ok | 720 | 0 |  |
+| Stripe | greenhouse | ok | 719 | 0 |  |
 | Block | greenhouse | ok | 208 | 0 |  |
 | Robinhood | greenhouse | ok | 157 | 0 |  |
 | Coinbase | greenhouse | ok | 227 | 3 |  |
 | Datadog | greenhouse | ok | 433 | 1 |  |
-| Snowflake | ashby | ok | 354 | 0 |  |
-| Databricks | greenhouse | ok | 895 | 2 |  |
+| Snowflake | ashby | ok | 355 | 0 |  |
+| Databricks | greenhouse | ok | 896 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 679 | 0 |  |
+| Anthropic | greenhouse | ok | 681 | 0 |  |
 | OpenAI | ashby | ok | 796 | 0 |  |
 | Perplexity | ashby | ok | 131 | 3 |  |
 | Scale AI | greenhouse | ok | 171 | 1 |  |
