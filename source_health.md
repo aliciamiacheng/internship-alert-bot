@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-24T11:12:23.346763+00:00
+Checked: 2026-10-24T16:02:21.574169+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -144,7 +144,7 @@ OK means the configured board returned postings; an employer may also post on an
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 681 | 0 |  |
 | OpenAI | ashby | ok | 796 | 0 |  |
-| Perplexity | ashby | ok | 131 | 3 |  |
+| Perplexity | ashby | ok | 132 | 3 |  |
 | Scale AI | greenhouse | ok | 171 | 1 |  |
 | Cohere | ashby | ok | 116 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |

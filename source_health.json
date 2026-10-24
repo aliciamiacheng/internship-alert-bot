@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-24T11:12:23.346763+00:00",
+  "checked_at_utc": "2026-10-24T16:02:21.574169+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1093,7 +1093,7 @@
       "company": "Perplexity",
       "source": "ashby",
       "status": "ok",
-      "listings": 131,
+      "listings": 132,
       "matches": 3,
       "detail": ""
     },
