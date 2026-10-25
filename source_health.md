@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-25T16:31:10.274452+00:00
+Checked: 2026-10-25T20:56:31.825280+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -132,14 +132,14 @@ OK means the configured board returned postings; an employer may also post on an
 | Meta | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Airbnb | greenhouse | ok | 191 | 0 |  |
+| Airbnb | greenhouse | ok | 190 | 0 |  |
 | Stripe | greenhouse | ok | 719 | 0 |  |
 | Block | greenhouse | ok | 208 | 0 |  |
 | Robinhood | greenhouse | ok | 157 | 0 |  |
 | Coinbase | greenhouse | ok | 227 | 3 |  |
 | Datadog | greenhouse | ok | 433 | 1 |  |
 | Snowflake | ashby | ok | 355 | 0 |  |
-| Databricks | greenhouse | ok | 896 | 2 |  |
+| Databricks | greenhouse | ok | 894 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 682 | 0 |  |
