@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-25T11:41:55.770624+00:00
+Checked: 2026-10-25T16:31:10.274452+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -74,7 +74,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Citadel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Citadel Securities | none | unconfigured | 0 | 0 | No approved listing source configured |
 | D. E. Shaw | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Point72 | greenhouse | ok | 211 | 5 |  |
+| Point72 | greenhouse | ok | 215 | 5 |  |
 | Two Sigma | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Bridgewater | none | unconfigured | 0 | 0 | No approved listing source configured |
 | AQR Capital Management | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -139,11 +139,11 @@ OK means the configured board returned postings; an employer may also post on an
 | Coinbase | greenhouse | ok | 227 | 3 |  |
 | Datadog | greenhouse | ok | 433 | 1 |  |
 | Snowflake | ashby | ok | 355 | 0 |  |
-| Databricks | greenhouse | ok | 897 | 2 |  |
+| Databricks | greenhouse | ok | 896 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 682 | 0 |  |
-| OpenAI | ashby | ok | 794 | 0 |  |
+| OpenAI | ashby | ok | 793 | 0 |  |
 | Perplexity | ashby | ok | 132 | 3 |  |
 | Scale AI | greenhouse | ok | 171 | 1 |  |
 | Cohere | ashby | ok | 116 | 0 |  |

@@ -951,239 +951,239 @@
   "_sources": {
     "Airbnb": {
       "last_count": 191,
-      "last_success_utc": "2026-10-25T11:41:52.801626+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.758403+00:00"
     },
     "Akuna Capital": {
       "last_count": 38,
-      "last_success_utc": "2026-10-25T11:41:52.580948+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.593209+00:00"
     },
     "Amplitude": {
       "last_count": 39,
-      "last_success_utc": "2026-10-25T11:41:54.924444+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.675392+00:00"
     },
     "Anthropic": {
       "last_count": 682,
-      "last_success_utc": "2026-10-25T11:41:53.441173+00:00"
+      "last_success_utc": "2026-10-25T16:31:08.275863+00:00"
     },
     "Asana": {
       "last_count": 109,
-      "last_success_utc": "2026-10-25T11:41:55.159043+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.829678+00:00"
     },
     "Ashby": {
       "last_count": 67,
-      "last_success_utc": "2026-10-25T11:41:54.732916+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.577883+00:00"
     },
     "Bessemer Venture Partners": {
       "last_count": 1,
-      "last_success_utc": "2026-10-25T11:41:52.751233+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.718832+00:00"
     },
     "Block": {
       "last_count": 208,
-      "last_success_utc": "2026-10-25T11:41:52.934810+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.845401+00:00"
     },
     "Brex": {
       "last_count": 259,
-      "last_success_utc": "2026-10-25T11:41:54.194433+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.112262+00:00"
     },
     "Carta": {
       "last_count": 74,
-      "last_success_utc": "2026-10-25T11:41:55.768993+00:00"
+      "last_success_utc": "2026-10-25T16:31:10.272846+00:00"
     },
     "Charles River Associates": {
       "last_count": 91,
-      "last_success_utc": "2026-10-25T11:41:52.204705+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.348264+00:00"
     },
     "Check": {
       "last_count": 18,
-      "last_success_utc": "2026-10-25T11:41:55.188492+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.854369+00:00"
     },
     "Chime": {
       "last_count": 73,
-      "last_success_utc": "2026-10-25T11:41:55.452401+00:00"
+      "last_success_utc": "2026-10-25T16:31:10.027444+00:00"
     },
     "Cohere": {
       "last_count": 116,
-      "last_success_utc": "2026-10-25T11:41:53.999599+00:00"
+      "last_success_utc": "2026-10-25T16:31:08.956222+00:00"
     },
     "Coinbase": {
       "last_count": 227,
-      "last_success_utc": "2026-10-25T11:41:53.032085+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.921837+00:00"
     },
     "Databricks": {
-      "last_count": 897,
-      "last_success_utc": "2026-10-25T11:41:53.383313+00:00"
+      "last_count": 896,
+      "last_success_utc": "2026-10-25T16:31:08.232522+00:00"
     },
     "Datadog": {
       "last_count": 433,
-      "last_success_utc": "2026-10-25T11:41:53.094975+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.973672+00:00"
     },
     "Duolingo": {
       "last_count": 60,
-      "last_success_utc": "2026-10-25T11:41:54.528229+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.405319+00:00"
     },
     "Figma": {
       "last_count": 138,
-      "last_success_utc": "2026-10-25T11:41:54.239208+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.140830+00:00"
     },
     "Five Rings": {
       "last_count": 17,
-      "last_success_utc": "2026-10-25T11:41:52.625366+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.621330+00:00"
     },
     "Flow Traders": {
       "last_count": 46,
-      "last_success_utc": "2026-10-25T11:41:52.671721+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.666418+00:00"
     },
     "General Atlantic": {
       "last_count": 13,
-      "last_success_utc": "2026-10-25T11:41:52.711884+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.689889+00:00"
     },
     "Gradient Labs": {
       "last_count": 7,
-      "last_success_utc": "2026-10-25T11:41:55.364005+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.960711+00:00"
     },
     "Gusto": {
       "last_count": 101,
-      "last_success_utc": "2026-10-25T11:41:55.408526+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.994464+00:00"
     },
     "IMC": {
       "last_count": 170,
-      "last_success_utc": "2026-10-25T11:41:52.455342+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.526729+00:00"
     },
     "Intercom": {
       "last_count": 104,
-      "last_success_utc": "2026-10-25T11:41:55.052559+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.738912+00:00"
     },
     "Jane Street": {
       "last_count": 220,
-      "last_success_utc": "2026-10-25T11:41:52.270033+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.388402+00:00"
     },
     "Jump Trading": {
       "last_count": 94,
-      "last_success_utc": "2026-10-25T11:41:52.538372+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.563430+00:00"
     },
     "Lattice": {
       "last_count": 7,
-      "last_success_utc": "2026-10-25T11:41:55.113615+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.797580+00:00"
     },
     "Linear": {
       "last_count": 34,
-      "last_success_utc": "2026-10-25T11:41:54.635878+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.498132+00:00"
     },
     "Man Group": {
       "last_count": 62,
-      "last_success_utc": "2026-10-25T11:41:52.363433+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.457204+00:00"
     },
     "Mercury": {
       "last_count": 77,
-      "last_success_utc": "2026-10-25T11:41:54.414476+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.339702+00:00"
     },
     "Miro": {
       "last_count": 21,
-      "last_success_utc": "2026-10-25T11:41:54.884447+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.639498+00:00"
     },
     "Mixpanel": {
       "last_count": 46,
-      "last_success_utc": "2026-10-25T11:41:54.965583+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.700444+00:00"
     },
     "Monzo": {
       "last_count": 72,
-      "last_success_utc": "2026-10-25T11:41:54.611420+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.458742+00:00"
     },
     "N26": {
       "last_count": 39,
-      "last_success_utc": "2026-10-25T11:41:55.493912+00:00"
+      "last_success_utc": "2026-10-25T16:31:10.051121+00:00"
     },
     "NerdWallet": {
       "last_count": 23,
-      "last_success_utc": "2026-10-25T11:41:55.607682+00:00"
+      "last_success_utc": "2026-10-25T16:31:10.163853+00:00"
     },
     "Notion": {
       "last_count": 140,
-      "last_success_utc": "2026-10-25T11:41:54.312733+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.222475+00:00"
     },
     "Omnea": {
       "last_count": 73,
-      "last_success_utc": "2026-10-25T11:41:55.347709+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.933203+00:00"
     },
     "OpenAI": {
-      "last_count": 794,
-      "last_success_utc": "2026-10-25T11:41:53.820596+00:00"
+      "last_count": 793,
+      "last_success_utc": "2026-10-25T16:31:08.779968+00:00"
     },
     "Perplexity": {
       "last_count": 132,
-      "last_success_utc": "2026-10-25T11:41:53.887269+00:00"
+      "last_success_utc": "2026-10-25T16:31:08.852062+00:00"
     },
     "Plaid": {
       "last_count": 134,
-      "last_success_utc": "2026-10-25T11:41:54.371485+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.308944+00:00"
     },
     "Pleo": {
       "last_count": 33,
-      "last_success_utc": "2026-10-25T11:41:55.528969+00:00"
+      "last_success_utc": "2026-10-25T16:31:10.090952+00:00"
     },
     "Point72": {
-      "last_count": 211,
-      "last_success_utc": "2026-10-25T11:41:52.321256+00:00"
+      "last_count": 215,
+      "last_success_utc": "2026-10-25T16:31:07.424183+00:00"
     },
     "PostHog": {
       "last_count": 10,
-      "last_success_utc": "2026-10-25T11:41:55.073477+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.765104+00:00"
     },
     "Ramp": {
       "last_count": 167,
-      "last_success_utc": "2026-10-25T11:41:54.146644+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.077488+00:00"
     },
     "Robinhood": {
       "last_count": 157,
-      "last_success_utc": "2026-10-25T11:41:52.980185+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.880703+00:00"
     },
     "Scale AI": {
       "last_count": 171,
-      "last_success_utc": "2026-10-25T11:41:53.935928+00:00"
+      "last_success_utc": "2026-10-25T16:31:08.887916+00:00"
     },
     "Schonfeld": {
       "last_count": 67,
-      "last_success_utc": "2026-10-25T11:41:52.405911+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.491973+00:00"
     },
     "Snowflake": {
       "last_count": 355,
-      "last_success_utc": "2026-10-25T11:41:53.306864+00:00"
+      "last_success_utc": "2026-10-25T16:31:08.178088+00:00"
     },
     "Stripe": {
       "last_count": 719,
-      "last_success_utc": "2026-10-25T11:41:52.874964+00:00"
+      "last_success_utc": "2026-10-25T16:31:07.806871+00:00"
     },
     "Taktile": {
       "last_count": 34,
-      "last_success_utc": "2026-10-25T11:41:55.220232+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.887003+00:00"
     },
     "Tripadvisor": {
       "last_count": 86,
-      "last_success_utc": "2026-10-25T11:41:55.571391+00:00"
+      "last_success_utc": "2026-10-25T16:31:10.131643+00:00"
     },
     "Vanta": {
       "last_count": 83,
-      "last_success_utc": "2026-10-25T11:41:55.726946+00:00"
+      "last_success_utc": "2026-10-25T16:31:10.246075+00:00"
     },
     "Vercel": {
       "last_count": 95,
-      "last_success_utc": "2026-10-25T11:41:54.483315+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.379066+00:00"
     },
     "Webflow": {
       "last_count": 0,
-      "last_success_utc": "2026-10-25T11:41:54.786584+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.607466+00:00"
     },
     "Wise": {
       "last_count": 21,
-      "last_success_utc": "2026-10-25T11:41:54.566520+00:00"
+      "last_success_utc": "2026-10-25T16:31:09.430950+00:00"
     },
     "Zocdoc": {
       "last_count": 59,
-      "last_success_utc": "2026-10-25T11:41:55.667495+00:00"
+      "last_success_utc": "2026-10-25T16:31:10.194318+00:00"
     },
     "xAI": {
       "last_count": 298,
-      "last_success_utc": "2026-10-25T11:41:54.048772+00:00"
+      "last_success_utc": "2026-10-25T16:31:08.989101+00:00"
     }
   },
   "a0ebb962cbbc84386acbd08c": {

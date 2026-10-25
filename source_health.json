@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-25T11:41:55.770624+00:00",
+  "checked_at_utc": "2026-10-25T16:31:10.274452+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -533,7 +533,7 @@
       "company": "Point72",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 211,
+      "listings": 215,
       "matches": 5,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 897,
+      "listings": 896,
       "matches": 2,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 794,
+      "listings": 793,
       "matches": 0,
       "detail": ""
     },
