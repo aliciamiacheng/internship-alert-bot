@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-25T04:52:17.908113+00:00
+Checked: 2026-10-25T11:41:55.770624+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -139,7 +139,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Coinbase | greenhouse | ok | 227 | 3 |  |
 | Datadog | greenhouse | ok | 433 | 1 |  |
 | Snowflake | ashby | ok | 355 | 0 |  |
-| Databricks | greenhouse | ok | 896 | 2 |  |
+| Databricks | greenhouse | ok | 897 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 682 | 0 |  |
