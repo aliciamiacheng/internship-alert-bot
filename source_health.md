@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-24T20:56:27.047751+00:00
+Checked: 2026-10-25T04:52:17.908113+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -142,8 +142,8 @@ OK means the configured board returned postings; an employer may also post on an
 | Databricks | greenhouse | ok | 896 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 681 | 0 |  |
-| OpenAI | ashby | ok | 796 | 0 |  |
+| Anthropic | greenhouse | ok | 682 | 0 |  |
+| OpenAI | ashby | ok | 794 | 0 |  |
 | Perplexity | ashby | ok | 132 | 3 |  |
 | Scale AI | greenhouse | ok | 171 | 1 |  |
 | Cohere | ashby | ok | 116 | 0 |  |
@@ -153,12 +153,12 @@ OK means the configured board returned postings; an employer may also post on an
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Ramp | ashby | ok | 167 | 0 |  |
-| Brex | greenhouse | ok | 254 | 0 |  |
+| Brex | greenhouse | ok | 259 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Figma | greenhouse | ok | 138 | 0 |  |
 | Notion | ashby | ok | 140 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Plaid | ashby | ok | 135 | 0 |  |
+| Plaid | ashby | ok | 134 | 0 |  |
 | Mercury | greenhouse | ok | 77 | 0 |  |
 | Deel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Vercel | greenhouse | ok | 95 | 0 |  |

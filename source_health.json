@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-24T20:56:27.047751+00:00",
+  "checked_at_utc": "2026-10-25T04:52:17.908113+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 681,
+      "listings": 682,
       "matches": 0,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 796,
+      "listings": 794,
       "matches": 0,
       "detail": ""
     },
@@ -1165,7 +1165,7 @@
       "company": "Brex",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 254,
+      "listings": 259,
       "matches": 0,
       "detail": ""
     },
@@ -1205,7 +1205,7 @@
       "company": "Plaid",
       "source": "ashby",
       "status": "ok",
-      "listings": 135,
+      "listings": 134,
       "matches": 0,
       "detail": ""
     },
