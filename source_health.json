@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-29T05:56:16.125407+00:00",
+  "checked_at_utc": "2026-10-29T13:13:36.271618+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -533,7 +533,7 @@
       "company": "Point72",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 206,
+      "listings": 208,
       "matches": 5,
       "detail": ""
     },
@@ -581,7 +581,7 @@
       "company": "Man Group",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 67,
+      "listings": 69,
       "matches": 2,
       "detail": ""
     },
@@ -701,7 +701,7 @@
       "company": "Akuna Capital",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 31,
+      "listings": 32,
       "matches": 2,
       "detail": ""
     },
@@ -1005,7 +1005,7 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 722,
+      "listings": 725,
       "matches": 0,
       "detail": ""
     },
@@ -1029,7 +1029,7 @@
       "company": "Coinbase",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 227,
+      "listings": 228,
       "matches": 3,
       "detail": ""
     },
@@ -1037,7 +1037,7 @@
       "company": "Datadog",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 397,
+      "listings": 393,
       "matches": 0,
       "detail": ""
     },
@@ -1045,7 +1045,7 @@
       "company": "Snowflake",
       "source": "ashby",
       "status": "ok",
-      "listings": 362,
+      "listings": 361,
       "matches": 0,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 902,
+      "listings": 904,
       "matches": 2,
       "detail": ""
     },
@@ -1101,7 +1101,7 @@
       "company": "Scale AI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 171,
+      "listings": 170,
       "matches": 1,
       "detail": ""
     },
@@ -1133,7 +1133,7 @@
       "company": "xAI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 304,
+      "listings": 303,
       "matches": 2,
       "detail": ""
     },
@@ -1189,7 +1189,7 @@
       "company": "Notion",
       "source": "ashby",
       "status": "ok",
-      "listings": 142,
+      "listings": 143,
       "matches": 0,
       "detail": ""
     },
@@ -1253,7 +1253,7 @@
       "company": "Wise",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 21,
+      "listings": 22,
       "matches": 0,
       "detail": ""
     },
@@ -1333,7 +1333,7 @@
       "company": "PostHog",
       "source": "ashby",
       "status": "ok",
-      "listings": 12,
+      "listings": 11,
       "matches": 0,
       "detail": ""
     },
@@ -1381,7 +1381,7 @@
       "company": "Omnea",
       "source": "ashby",
       "status": "ok",
-      "listings": 74,
+      "listings": 73,
       "matches": 0,
       "detail": ""
     },
@@ -1397,7 +1397,7 @@
       "company": "Gusto",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 88,
+      "listings": 87,
       "matches": 0,
       "detail": ""
     },
@@ -1413,7 +1413,7 @@
       "company": "N26",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 32,
+      "listings": 30,
       "matches": 0,
       "detail": ""
     },
@@ -1453,7 +1453,7 @@
       "company": "Tripadvisor",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 82,
+      "listings": 81,
       "matches": 0,
       "detail": ""
     },
@@ -1477,7 +1477,7 @@
       "company": "Zocdoc",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 60,
+      "listings": 62,
       "matches": 0,
       "detail": ""
     },
