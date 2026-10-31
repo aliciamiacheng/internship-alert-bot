@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-31T12:44:00.262694+00:00
+Checked: 2026-10-31T21:41:38.225821+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -133,17 +133,17 @@ OK means the configured board returned postings; an employer may also post on an
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 202 | 0 |  |
-| Stripe | greenhouse | ok | 746 | 2 |  |
+| Stripe | greenhouse | ok | 745 | 2 |  |
 | Block | greenhouse | ok | 204 | 0 |  |
 | Robinhood | greenhouse | ok | 160 | 0 |  |
-| Coinbase | greenhouse | ok | 250 | 3 |  |
+| Coinbase | greenhouse | ok | 254 | 3 |  |
 | Datadog | greenhouse | ok | 397 | 0 |  |
 | Snowflake | ashby | ok | 366 | 1 |  |
 | Databricks | greenhouse | ok | 901 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 675 | 0 |  |
-| OpenAI | ashby | ok | 813 | 0 |  |
+| OpenAI | ashby | ok | 810 | 0 |  |
 | Perplexity | ashby | ok | 138 | 3 |  |
 | Scale AI | greenhouse | ok | 170 | 1 |  |
 | Cohere | ashby | ok | 122 | 0 |  |
@@ -152,7 +152,7 @@ OK means the configured board returned postings; an employer may also post on an
 | xAI | greenhouse | ok | 308 | 2 |  |
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Ramp | ashby | ok | 171 | 0 |  |
+| Ramp | ashby | ok | 172 | 0 |  |
 | Brex | greenhouse | ok | 263 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Figma | greenhouse | ok | 140 | 0 |  |
@@ -172,7 +172,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Airtable | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Miro | ashby | ok | 18 | 0 |  |
 | Amplitude | ashby | ok | 47 | 0 |  |
-| Mixpanel | greenhouse | ok | 44 | 0 |  |
+| Mixpanel | greenhouse | ok | 43 | 0 |  |
 | Intercom | greenhouse | ok | 109 | 0 |  |
 | PostHog | ashby | ok | 11 | 0 |  |
 | Lattice | greenhouse | ok | 8 | 0 |  |
