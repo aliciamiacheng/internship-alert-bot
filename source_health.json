@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-31T05:53:37.672231+00:00",
+  "checked_at_utc": "2026-10-31T12:44:00.262694+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1325,7 +1325,7 @@
       "company": "Intercom",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 110,
+      "listings": 109,
       "matches": 0,
       "detail": ""
     },
