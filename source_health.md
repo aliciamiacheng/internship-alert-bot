@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-01T06:18:58.074183+00:00
+Checked: 2026-11-01T17:57:29.958633+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -133,20 +133,20 @@ OK means the configured board returned postings; an employer may also post on an
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 202 | 0 |  |
-| Stripe | greenhouse | ok | 745 | 2 |  |
+| Stripe | greenhouse | ok | 746 | 2 |  |
 | Block | greenhouse | ok | 204 | 0 |  |
 | Robinhood | greenhouse | ok | 160 | 0 |  |
 | Coinbase | greenhouse | ok | 254 | 3 |  |
 | Datadog | greenhouse | ok | 397 | 0 |  |
 | Snowflake | ashby | ok | 366 | 1 |  |
-| Databricks | greenhouse | ok | 904 | 2 |  |
+| Databricks | greenhouse | ok | 909 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 675 | 0 |  |
 | OpenAI | ashby | ok | 810 | 0 |  |
 | Perplexity | ashby | ok | 138 | 3 |  |
 | Scale AI | greenhouse | ok | 170 | 1 |  |
-| Cohere | ashby | ok | 122 | 0 |  |
+| Cohere | ashby | ok | 120 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Hugging Face | none | unconfigured | 0 | 0 | No approved listing source configured |
 | xAI | greenhouse | ok | 308 | 2 |  |
@@ -162,7 +162,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Mercury | greenhouse | ok | 76 | 0 |  |
 | Deel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Vercel | greenhouse | ok | 91 | 0 |  |
-| Duolingo | greenhouse | ok | 57 | 0 |  |
+| Duolingo | greenhouse | ok | 56 | 0 |  |
 | Atlassian | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Wise | greenhouse | ok | 21 | 0 |  |
 | Monzo | greenhouse | ok | 63 | 0 |  |
@@ -180,7 +180,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Monday.com | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Check | ashby | ok | 13 | 0 |  |
 | Taktile | ashby | ok | 34 | 0 |  |
-| Omnea | ashby | ok | 73 | 0 |  |
+| Omnea | ashby | ok | 72 | 0 |  |
 | Gradient Labs | ashby | ok | 7 | 0 |  |
 | Gusto | greenhouse | ok | 84 | 0 |  |
 | Chime | greenhouse | ok | 75 | 0 |  |
