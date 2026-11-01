@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-10-31T21:41:38.225821+00:00
+Checked: 2026-11-01T06:18:58.074183+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -139,7 +139,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Coinbase | greenhouse | ok | 254 | 3 |  |
 | Datadog | greenhouse | ok | 397 | 0 |  |
 | Snowflake | ashby | ok | 366 | 1 |  |
-| Databricks | greenhouse | ok | 901 | 2 |  |
+| Databricks | greenhouse | ok | 904 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 675 | 0 |  |
@@ -165,7 +165,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Duolingo | greenhouse | ok | 57 | 0 |  |
 | Atlassian | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Wise | greenhouse | ok | 21 | 0 |  |
-| Monzo | greenhouse | ok | 64 | 0 |  |
+| Monzo | greenhouse | ok | 63 | 0 |  |
 | Linear | ashby | ok | 31 | 0 |  |
 | Ashby | ashby | ok | 74 | 0 |  |
 | Webflow | greenhouse | empty | 0 | 0 |  |
