@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-02T21:45:55.926638+00:00
+Checked: 2026-11-02T22:27:58.496228+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -135,11 +135,11 @@ OK means the configured board returned postings; an employer may also post on an
 | Airbnb | greenhouse | ok | 210 | 0 |  |
 | Stripe | greenhouse | ok | 742 | 2 |  |
 | Block | greenhouse | ok | 202 | 0 |  |
-| Robinhood | greenhouse | ok | 158 | 0 |  |
+| Robinhood | greenhouse | ok | 161 | 0 |  |
 | Coinbase | greenhouse | ok | 268 | 3 |  |
 | Datadog | greenhouse | ok | 405 | 0 |  |
-| Snowflake | ashby | ok | 367 | 1 |  |
-| Databricks | greenhouse | ok | 913 | 2 |  |
+| Snowflake | ashby | ok | 368 | 1 |  |
+| Databricks | greenhouse | ok | 911 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 677 | 0 |  |
@@ -152,8 +152,8 @@ OK means the configured board returned postings; an employer may also post on an
 | xAI | greenhouse | ok | 312 | 2 |  |
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Ramp | ashby | ok | 171 | 0 |  |
-| Brex | greenhouse | ok | 263 | 0 |  |
+| Ramp | ashby | ok | 170 | 0 |  |
+| Brex | greenhouse | ok | 262 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Figma | greenhouse | ok | 141 | 0 |  |
 | Notion | ashby | ok | 146 | 0 |  |
@@ -167,7 +167,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Wise | greenhouse | ok | 19 | 0 |  |
 | Monzo | greenhouse | ok | 62 | 0 |  |
 | Linear | ashby | ok | 31 | 0 |  |
-| Ashby | ashby | ok | 72 | 0 |  |
+| Ashby | ashby | ok | 71 | 0 |  |
 | Webflow | greenhouse | empty | 0 | 0 |  |
 | Airtable | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Miro | ashby | ok | 18 | 0 |  |
@@ -182,7 +182,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Taktile | ashby | ok | 33 | 0 |  |
 | Omnea | ashby | ok | 72 | 0 |  |
 | Gradient Labs | ashby | ok | 6 | 0 |  |
-| Gusto | greenhouse | ok | 83 | 0 |  |
+| Gusto | greenhouse | ok | 84 | 0 |  |
 | Chime | greenhouse | ok | 74 | 0 |  |
 | N26 | greenhouse | ok | 28 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
