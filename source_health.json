@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-02T22:27:58.496228+00:00",
+  "checked_at_utc": "2026-11-03T06:56:07.527817+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -533,7 +533,7 @@
       "company": "Point72",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 198,
+      "listings": 199,
       "matches": 4,
       "detail": ""
     },
@@ -581,7 +581,7 @@
       "company": "Man Group",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 66,
+      "listings": 67,
       "matches": 2,
       "detail": ""
     },
@@ -653,7 +653,7 @@
       "company": "IMC",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 162,
+      "listings": 158,
       "matches": 5,
       "detail": ""
     },
@@ -997,7 +997,7 @@
       "company": "Airbnb",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 210,
+      "listings": 212,
       "matches": 0,
       "detail": ""
     },
@@ -1005,7 +1005,7 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 742,
+      "listings": 739,
       "matches": 2,
       "detail": ""
     },
@@ -1013,7 +1013,7 @@
       "company": "Block",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 202,
+      "listings": 203,
       "matches": 0,
       "detail": ""
     },
@@ -1029,7 +1029,7 @@
       "company": "Coinbase",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 268,
+      "listings": 261,
       "matches": 3,
       "detail": ""
     },
@@ -1045,7 +1045,7 @@
       "company": "Snowflake",
       "source": "ashby",
       "status": "ok",
-      "listings": 368,
+      "listings": 367,
       "matches": 1,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 911,
+      "listings": 910,
       "matches": 2,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 804,
+      "listings": 805,
       "matches": 0,
       "detail": ""
     },
@@ -1093,7 +1093,7 @@
       "company": "Perplexity",
       "source": "ashby",
       "status": "ok",
-      "listings": 137,
+      "listings": 136,
       "matches": 3,
       "detail": ""
     },
@@ -1101,7 +1101,7 @@
       "company": "Scale AI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 168,
+      "listings": 166,
       "matches": 1,
       "detail": ""
     },
@@ -1133,7 +1133,7 @@
       "company": "xAI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 312,
+      "listings": 310,
       "matches": 2,
       "detail": ""
     },
@@ -1189,7 +1189,7 @@
       "company": "Notion",
       "source": "ashby",
       "status": "ok",
-      "listings": 146,
+      "listings": 147,
       "matches": 0,
       "detail": ""
     },
@@ -1205,7 +1205,7 @@
       "company": "Plaid",
       "source": "ashby",
       "status": "ok",
-      "listings": 136,
+      "listings": 137,
       "matches": 0,
       "detail": ""
     },
@@ -1229,7 +1229,7 @@
       "company": "Vercel",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 90,
+      "listings": 89,
       "matches": 0,
       "detail": ""
     },
@@ -1261,7 +1261,7 @@
       "company": "Monzo",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 62,
+      "listings": 61,
       "matches": 0,
       "detail": ""
     },
@@ -1317,7 +1317,7 @@
       "company": "Mixpanel",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 43,
+      "listings": 42,
       "matches": 0,
       "detail": ""
     },
@@ -1469,7 +1469,7 @@
       "company": "NerdWallet",
       "source": "ashby",
       "status": "ok",
-      "listings": 26,
+      "listings": 27,
       "matches": 0,
       "detail": ""
     },
@@ -1485,7 +1485,7 @@
       "company": "Vanta",
       "source": "ashby",
       "status": "ok",
-      "listings": 78,
+      "listings": 81,
       "matches": 0,
       "detail": ""
     },
