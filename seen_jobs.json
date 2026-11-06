@@ -601,7 +601,7 @@
     "id": "68dd3b6f7427d6f34d36fdd03d4617ac",
     "location": "Berlin",
     "title": "Internship - Machine Learning Research Engineer",
-    "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c"
+    "url": "https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c"
   },
   "6be4b27b7b657947459c637d87d5be86": {
     "categories": [
@@ -960,240 +960,240 @@
   },
   "_sources": {
     "Airbnb": {
-      "last_count": 199,
-      "last_success_utc": "2026-11-06T06:56:50.044711+00:00"
+      "last_count": 203,
+      "last_success_utc": "2026-11-06T19:29:20.274518+00:00"
     },
     "Akuna Capital": {
-      "last_count": 32,
-      "last_success_utc": "2026-11-06T06:56:49.710908+00:00"
+      "last_count": 31,
+      "last_success_utc": "2026-11-06T19:29:19.924661+00:00"
     },
     "Amplitude": {
-      "last_count": 51,
-      "last_success_utc": "2026-11-06T06:56:52.444372+00:00"
+      "last_count": 52,
+      "last_success_utc": "2026-11-06T19:29:22.925928+00:00"
     },
     "Anthropic": {
-      "last_count": 674,
-      "last_success_utc": "2026-11-06T06:56:50.799658+00:00"
+      "last_count": 671,
+      "last_success_utc": "2026-11-06T19:29:21.139148+00:00"
     },
     "Asana": {
-      "last_count": 110,
-      "last_success_utc": "2026-11-06T06:56:52.791183+00:00"
+      "last_count": 108,
+      "last_success_utc": "2026-11-06T19:29:23.312044+00:00"
     },
     "Ashby": {
-      "last_count": 71,
-      "last_success_utc": "2026-11-06T06:56:52.314285+00:00"
+      "last_count": 74,
+      "last_success_utc": "2026-11-06T19:29:22.778056+00:00"
     },
     "Bessemer Venture Partners": {
       "last_count": 1,
-      "last_success_utc": "2026-11-06T06:56:49.978838+00:00"
+      "last_success_utc": "2026-11-06T19:29:20.200892+00:00"
     },
     "Block": {
       "last_count": 197,
-      "last_success_utc": "2026-11-06T06:56:50.190873+00:00"
+      "last_success_utc": "2026-11-06T19:29:20.451064+00:00"
     },
     "Brex": {
-      "last_count": 272,
-      "last_success_utc": "2026-11-06T06:56:51.640416+00:00"
+      "last_count": 267,
+      "last_success_utc": "2026-11-06T19:29:21.971210+00:00"
     },
     "Carta": {
       "last_count": 79,
-      "last_success_utc": "2026-11-06T06:56:53.959311+00:00"
+      "last_success_utc": "2026-11-06T19:29:24.113686+00:00"
     },
     "Charles River Associates": {
-      "last_count": 96,
-      "last_success_utc": "2026-11-06T06:56:49.269651+00:00"
+      "last_count": 94,
+      "last_success_utc": "2026-11-06T19:29:19.396748+00:00"
     },
     "Check": {
       "last_count": 12,
-      "last_success_utc": "2026-11-06T06:56:52.878536+00:00"
+      "last_success_utc": "2026-11-06T19:29:23.344155+00:00"
     },
     "Chime": {
       "last_count": 73,
-      "last_success_utc": "2026-11-06T06:56:53.514369+00:00"
+      "last_success_utc": "2026-11-06T19:29:23.713838+00:00"
     },
     "Cohere": {
-      "last_count": 119,
-      "last_success_utc": "2026-11-06T06:56:51.418003+00:00"
+      "last_count": 123,
+      "last_success_utc": "2026-11-06T19:29:21.732547+00:00"
     },
     "Coinbase": {
-      "last_count": 279,
-      "last_success_utc": "2026-11-06T06:56:50.330987+00:00"
+      "last_count": 281,
+      "last_success_utc": "2026-11-06T19:29:20.612361+00:00"
     },
     "Databricks": {
-      "last_count": 921,
-      "last_success_utc": "2026-11-06T06:56:50.729352+00:00"
+      "last_count": 928,
+      "last_success_utc": "2026-11-06T19:29:21.053162+00:00"
     },
     "Datadog": {
-      "last_count": 401,
-      "last_success_utc": "2026-11-06T06:56:50.401973+00:00"
+      "last_count": 399,
+      "last_success_utc": "2026-11-06T19:29:20.695632+00:00"
     },
     "Duolingo": {
-      "last_count": 57,
-      "last_success_utc": "2026-11-06T06:56:52.065783+00:00"
+      "last_count": 59,
+      "last_success_utc": "2026-11-06T19:29:22.433589+00:00"
     },
     "Figma": {
-      "last_count": 143,
-      "last_success_utc": "2026-11-06T06:56:51.707236+00:00"
+      "last_count": 145,
+      "last_success_utc": "2026-11-06T19:29:22.043293+00:00"
     },
     "Five Rings": {
       "last_count": 17,
-      "last_success_utc": "2026-11-06T06:56:49.769332+00:00"
+      "last_success_utc": "2026-11-06T19:29:19.997432+00:00"
     },
     "Flow Traders": {
-      "last_count": 44,
-      "last_success_utc": "2026-11-06T06:56:49.862906+00:00"
+      "last_count": 42,
+      "last_success_utc": "2026-11-06T19:29:20.076137+00:00"
     },
     "General Atlantic": {
       "last_count": 14,
-      "last_success_utc": "2026-11-06T06:56:49.921457+00:00"
+      "last_success_utc": "2026-11-06T19:29:20.140830+00:00"
     },
     "Gradient Labs": {
       "last_count": 5,
-      "last_success_utc": "2026-11-06T06:56:53.376523+00:00"
+      "last_success_utc": "2026-11-06T19:29:23.573245+00:00"
     },
     "Gusto": {
-      "last_count": 81,
-      "last_success_utc": "2026-11-06T06:56:53.452604+00:00"
+      "last_count": 83,
+      "last_success_utc": "2026-11-06T19:29:23.645511+00:00"
     },
     "IMC": {
       "last_count": 162,
-      "last_success_utc": "2026-11-06T06:56:49.586609+00:00"
+      "last_success_utc": "2026-11-06T19:29:19.760772+00:00"
     },
     "Intercom": {
-      "last_count": 108,
-      "last_success_utc": "2026-11-06T06:56:52.641884+00:00"
+      "last_count": 109,
+      "last_success_utc": "2026-11-06T19:29:23.138445+00:00"
     },
     "Jane Street": {
       "last_count": 219,
-      "last_success_utc": "2026-11-06T06:56:49.335682+00:00"
+      "last_success_utc": "2026-11-06T19:29:19.476103+00:00"
     },
     "Jump Trading": {
-      "last_count": 93,
-      "last_success_utc": "2026-11-06T06:56:49.651752+00:00"
+      "last_count": 92,
+      "last_success_utc": "2026-11-06T19:29:19.832761+00:00"
     },
     "Lattice": {
       "last_count": 6,
-      "last_success_utc": "2026-11-06T06:56:52.727127+00:00"
+      "last_success_utc": "2026-11-06T19:29:23.238521+00:00"
     },
     "Linear": {
-      "last_count": 31,
-      "last_success_utc": "2026-11-06T06:56:52.220654+00:00"
+      "last_count": 32,
+      "last_success_utc": "2026-11-06T19:29:22.600030+00:00"
     },
     "Man Group": {
-      "last_count": 70,
-      "last_success_utc": "2026-11-06T06:56:49.464540+00:00"
+      "last_count": 72,
+      "last_success_utc": "2026-11-06T19:29:19.621609+00:00"
     },
     "Mercury": {
-      "last_count": 76,
-      "last_success_utc": "2026-11-06T06:56:51.929024+00:00"
+      "last_count": 77,
+      "last_success_utc": "2026-11-06T19:29:22.299442+00:00"
     },
     "Miro": {
       "last_count": 21,
-      "last_success_utc": "2026-11-06T06:56:52.399358+00:00"
+      "last_success_utc": "2026-11-06T19:29:22.877260+00:00"
     },
     "Mixpanel": {
-      "last_count": 39,
-      "last_success_utc": "2026-11-06T06:56:52.517530+00:00"
+      "last_count": 40,
+      "last_success_utc": "2026-11-06T19:29:23.004522+00:00"
     },
     "Monzo": {
-      "last_count": 59,
-      "last_success_utc": "2026-11-06T06:56:52.188980+00:00"
+      "last_count": 58,
+      "last_success_utc": "2026-11-06T19:29:22.569686+00:00"
     },
     "N26": {
-      "last_count": 34,
-      "last_success_utc": "2026-11-06T06:56:53.572333+00:00"
+      "last_count": 36,
+      "last_success_utc": "2026-11-06T19:29:23.779556+00:00"
     },
     "NerdWallet": {
       "last_count": 27,
-      "last_success_utc": "2026-11-06T06:56:53.776881+00:00"
+      "last_success_utc": "2026-11-06T19:29:23.923955+00:00"
     },
     "Notion": {
-      "last_count": 150,
-      "last_success_utc": "2026-11-06T06:56:51.790853+00:00"
+      "last_count": 154,
+      "last_success_utc": "2026-11-06T19:29:22.126437+00:00"
     },
     "Omnea": {
-      "last_count": 69,
-      "last_success_utc": "2026-11-06T06:56:53.292789+00:00"
+      "last_count": 66,
+      "last_success_utc": "2026-11-06T19:29:23.439643+00:00"
     },
     "OpenAI": {
-      "last_count": 822,
-      "last_success_utc": "2026-11-06T06:56:51.206633+00:00"
+      "last_count": 819,
+      "last_success_utc": "2026-11-06T19:29:21.510365+00:00"
     },
     "Perplexity": {
-      "last_count": 137,
-      "last_success_utc": "2026-11-06T06:56:51.277353+00:00"
+      "last_count": 136,
+      "last_success_utc": "2026-11-06T19:29:21.585103+00:00"
     },
     "Plaid": {
       "last_count": 144,
-      "last_success_utc": "2026-11-06T06:56:51.869092+00:00"
+      "last_success_utc": "2026-11-06T19:29:22.218918+00:00"
     },
     "Pleo": {
-      "last_count": 43,
-      "last_success_utc": "2026-11-06T06:56:53.620788+00:00"
+      "last_count": 40,
+      "last_success_utc": "2026-11-06T19:29:23.825068+00:00"
     },
     "Point72": {
-      "last_count": 195,
-      "last_success_utc": "2026-11-06T06:56:49.401266+00:00"
+      "last_count": 200,
+      "last_success_utc": "2026-11-06T19:29:19.551591+00:00"
     },
     "PostHog": {
-      "last_count": 8,
-      "last_success_utc": "2026-11-06T06:56:52.668118+00:00"
+      "last_count": 10,
+      "last_success_utc": "2026-11-06T19:29:23.167676+00:00"
     },
     "Ramp": {
       "last_count": 170,
-      "last_success_utc": "2026-11-06T06:56:51.577824+00:00"
+      "last_success_utc": "2026-11-06T19:29:21.896391+00:00"
     },
     "Robinhood": {
-      "last_count": 153,
-      "last_success_utc": "2026-11-06T06:56:50.261871+00:00"
+      "last_count": 151,
+      "last_success_utc": "2026-11-06T19:29:20.532961+00:00"
     },
     "Scale AI": {
-      "last_count": 167,
-      "last_success_utc": "2026-11-06T06:56:51.342913+00:00"
+      "last_count": 170,
+      "last_success_utc": "2026-11-06T19:29:21.656584+00:00"
     },
     "Schonfeld": {
       "last_count": 67,
-      "last_success_utc": "2026-11-06T06:56:49.524313+00:00"
+      "last_success_utc": "2026-11-06T19:29:19.688196+00:00"
     },
     "Snowflake": {
-      "last_count": 374,
-      "last_success_utc": "2026-11-06T06:56:50.643701+00:00"
+      "last_count": 370,
+      "last_success_utc": "2026-11-06T19:29:20.964142+00:00"
     },
     "Stripe": {
-      "last_count": 768,
-      "last_success_utc": "2026-11-06T06:56:50.119981+00:00"
+      "last_count": 765,
+      "last_success_utc": "2026-11-06T19:29:20.365308+00:00"
     },
     "Taktile": {
-      "last_count": 35,
-      "last_success_utc": "2026-11-06T06:56:52.985213+00:00"
+      "last_count": 36,
+      "last_success_utc": "2026-11-06T19:29:23.388413+00:00"
     },
     "Tripadvisor": {
       "last_count": 7,
-      "last_success_utc": "2026-11-06T06:56:53.680566+00:00"
+      "last_success_utc": "2026-11-06T19:29:23.890109+00:00"
     },
     "Vanta": {
       "last_count": 84,
-      "last_success_utc": "2026-11-06T06:56:53.897178+00:00"
+      "last_success_utc": "2026-11-06T19:29:24.045564+00:00"
     },
     "Vercel": {
-      "last_count": 87,
-      "last_success_utc": "2026-11-06T06:56:52.005071+00:00"
+      "last_count": 86,
+      "last_success_utc": "2026-11-06T19:29:22.362745+00:00"
     },
     "Webflow": {
       "last_count": 0,
-      "last_success_utc": "2026-11-06T06:56:52.371114+00:00"
+      "last_success_utc": "2026-11-06T19:29:22.841912+00:00"
     },
     "Wise": {
       "last_count": 17,
-      "last_success_utc": "2026-11-06T06:56:52.126004+00:00"
+      "last_success_utc": "2026-11-06T19:29:22.497590+00:00"
     },
     "Zocdoc": {
-      "last_count": 62,
-      "last_success_utc": "2026-11-06T06:56:53.835969+00:00"
+      "last_count": 65,
+      "last_success_utc": "2026-11-06T19:29:23.990246+00:00"
     },
     "xAI": {
-      "last_count": 301,
-      "last_success_utc": "2026-11-06T06:56:51.481270+00:00"
+      "last_count": 300,
+      "last_success_utc": "2026-11-06T19:29:21.807080+00:00"
     }
   },
   "a0ebb962cbbc84386acbd08c": {
@@ -1213,7 +1213,7 @@
     "id": "a13cc87c046a7fa8e613afd1479f5e35",
     "location": "London",
     "title": "Internship - Search Machine Learning Engineer",
-    "url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d"
+    "url": "https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d"
   },
   "a29f9828a6504a205923be97": {
     "categories": [
@@ -1413,7 +1413,7 @@
     "id": "c1f867f54889618de087b4277e8ae143",
     "location": "Belgrade",
     "title": "Internship - Search Machine Learning Engineer",
-    "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
+    "url": "https://jobs.ashbyhq.com/Perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
   },
   "c2d245dad5fd6df76f0d59d45f802a7d": {
     "categories": [
