@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-07T06:08:31.645687+00:00
+Checked: 2026-11-07T13:13:53.764053+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -139,10 +139,10 @@ OK means the configured board returned postings; an employer may also post on an
 | Coinbase | greenhouse | ok | 284 | 3 |  |
 | Datadog | greenhouse | ok | 400 | 0 |  |
 | Snowflake | ashby | ok | 371 | 0 |  |
-| Databricks | greenhouse | ok | 923 | 2 |  |
+| Databricks | greenhouse | ok | 924 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 677 | 0 |  |
+| Anthropic | greenhouse | ok | 675 | 0 |  |
 | OpenAI | ashby | ok | 820 | 0 |  |
 | Perplexity | ashby | ok | 137 | 3 |  |
 | Scale AI | greenhouse | ok | 168 | 1 |  |
@@ -155,7 +155,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Ramp | ashby | ok | 171 | 0 |  |
 | Brex | greenhouse | ok | 268 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Figma | greenhouse | ok | 144 | 0 |  |
+| Figma | greenhouse | ok | 145 | 0 |  |
 | Notion | ashby | ok | 154 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Plaid | ashby | ok | 141 | 0 |  |
