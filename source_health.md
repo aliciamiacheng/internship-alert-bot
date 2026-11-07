@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-07T13:13:53.764053+00:00
+Checked: 2026-11-07T21:57:02.554251+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -133,17 +133,17 @@ OK means the configured board returned postings; an employer may also post on an
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 205 | 0 |  |
-| Stripe | greenhouse | ok | 765 | 2 |  |
+| Stripe | greenhouse | ok | 766 | 2 |  |
 | Block | greenhouse | ok | 200 | 0 |  |
 | Robinhood | greenhouse | ok | 150 | 0 |  |
 | Coinbase | greenhouse | ok | 284 | 3 |  |
 | Datadog | greenhouse | ok | 400 | 0 |  |
-| Snowflake | ashby | ok | 371 | 0 |  |
-| Databricks | greenhouse | ok | 924 | 2 |  |
+| Snowflake | ashby | ok | 372 | 0 |  |
+| Databricks | greenhouse | ok | 922 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 675 | 0 |  |
-| OpenAI | ashby | ok | 820 | 0 |  |
+| OpenAI | ashby | ok | 819 | 0 |  |
 | Perplexity | ashby | ok | 137 | 3 |  |
 | Scale AI | greenhouse | ok | 168 | 1 |  |
 | Cohere | ashby | ok | 124 | 0 |  |
@@ -159,7 +159,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Notion | ashby | ok | 154 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Plaid | ashby | ok | 141 | 0 |  |
-| Mercury | greenhouse | ok | 79 | 0 |  |
+| Mercury | greenhouse | ok | 78 | 0 |  |
 | Deel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Vercel | greenhouse | ok | 87 | 0 |  |
 | Duolingo | greenhouse | ok | 59 | 0 |  |
@@ -178,7 +178,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Lattice | greenhouse | ok | 6 | 0 |  |
 | Asana | greenhouse | ok | 108 | 0 |  |
 | Monday.com | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Check | ashby | ok | 12 | 0 |  |
+| Check | ashby | ok | 11 | 0 |  |
 | Taktile | ashby | ok | 36 | 0 |  |
 | Omnea | ashby | ok | 66 | 0 |  |
 | Gradient Labs | ashby | ok | 5 | 0 |  |

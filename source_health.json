@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-07T13:13:53.764053+00:00",
+  "checked_at_utc": "2026-11-07T21:57:02.554251+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1005,7 +1005,7 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 765,
+      "listings": 766,
       "matches": 2,
       "detail": ""
     },
@@ -1045,7 +1045,7 @@
       "company": "Snowflake",
       "source": "ashby",
       "status": "ok",
-      "listings": 371,
+      "listings": 372,
       "matches": 0,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 924,
+      "listings": 922,
       "matches": 2,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 820,
+      "listings": 819,
       "matches": 0,
       "detail": ""
     },
@@ -1213,7 +1213,7 @@
       "company": "Mercury",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 79,
+      "listings": 78,
       "matches": 0,
       "detail": ""
     },
@@ -1365,7 +1365,7 @@
       "company": "Check",
       "source": "ashby",
       "status": "ok",
-      "listings": 12,
+      "listings": 11,
       "matches": 0,
       "detail": ""
     },
