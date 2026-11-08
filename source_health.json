@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-07T21:57:02.554251+00:00",
+  "checked_at_utc": "2026-11-08T06:14:25.212459+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1037,7 +1037,7 @@
       "company": "Datadog",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 400,
+      "listings": 401,
       "matches": 0,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 922,
+      "listings": 920,
       "matches": 2,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 819,
+      "listings": 818,
       "matches": 0,
       "detail": ""
     },
@@ -1157,7 +1157,7 @@
       "company": "Ramp",
       "source": "ashby",
       "status": "ok",
-      "listings": 171,
+      "listings": 169,
       "matches": 0,
       "detail": ""
     },

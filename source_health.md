@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-07T21:57:02.554251+00:00
+Checked: 2026-11-08T06:14:25.212459+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -137,13 +137,13 @@ OK means the configured board returned postings; an employer may also post on an
 | Block | greenhouse | ok | 200 | 0 |  |
 | Robinhood | greenhouse | ok | 150 | 0 |  |
 | Coinbase | greenhouse | ok | 284 | 3 |  |
-| Datadog | greenhouse | ok | 400 | 0 |  |
+| Datadog | greenhouse | ok | 401 | 0 |  |
 | Snowflake | ashby | ok | 372 | 0 |  |
-| Databricks | greenhouse | ok | 922 | 2 |  |
+| Databricks | greenhouse | ok | 920 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 675 | 0 |  |
-| OpenAI | ashby | ok | 819 | 0 |  |
+| OpenAI | ashby | ok | 818 | 0 |  |
 | Perplexity | ashby | ok | 137 | 3 |  |
 | Scale AI | greenhouse | ok | 168 | 1 |  |
 | Cohere | ashby | ok | 124 | 0 |  |
@@ -152,7 +152,7 @@ OK means the configured board returned postings; an employer may also post on an
 | xAI | greenhouse | ok | 303 | 2 |  |
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Ramp | ashby | ok | 171 | 0 |  |
+| Ramp | ashby | ok | 169 | 0 |  |
 | Brex | greenhouse | ok | 268 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Figma | greenhouse | ok | 145 | 0 |  |
