@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-08T06:14:25.212459+00:00",
+  "checked_at_utc": "2026-11-08T13:38:11.342996+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 920,
+      "listings": 922,
       "matches": 2,
       "detail": ""
     },
@@ -1133,7 +1133,7 @@
       "company": "xAI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 303,
+      "listings": 304,
       "matches": 2,
       "detail": ""
     },
