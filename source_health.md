@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-08T13:38:11.342996+00:00
+Checked: 2026-11-08T22:14:11.257831+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -27,7 +27,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Altman Solon | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Analysis Group | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Cornerstone Research | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Charles River Associates | greenhouse | ok | 94 | 5 |  |
+| Charles River Associates | greenhouse | ok | 92 | 5 |  |
 | NERA Economic Consulting | none | unconfigured | 0 | 0 | No approved listing source configured |
 | ZS Associates | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Simon-Kucher | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -136,14 +136,14 @@ OK means the configured board returned postings; an employer may also post on an
 | Stripe | greenhouse | ok | 766 | 2 |  |
 | Block | greenhouse | ok | 200 | 0 |  |
 | Robinhood | greenhouse | ok | 150 | 0 |  |
-| Coinbase | greenhouse | ok | 284 | 3 |  |
+| Coinbase | greenhouse | ok | 283 | 3 |  |
 | Datadog | greenhouse | ok | 401 | 0 |  |
 | Snowflake | ashby | ok | 372 | 0 |  |
 | Databricks | greenhouse | ok | 922 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anthropic | greenhouse | ok | 675 | 0 |  |
-| OpenAI | ashby | ok | 818 | 0 |  |
+| OpenAI | ashby | ok | 816 | 0 |  |
 | Perplexity | ashby | ok | 137 | 3 |  |
 | Scale AI | greenhouse | ok | 168 | 1 |  |
 | Cohere | ashby | ok | 124 | 0 |  |

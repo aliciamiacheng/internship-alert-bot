@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-08T13:38:11.342996+00:00",
+  "checked_at_utc": "2026-11-08T22:14:11.257831+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -157,7 +157,7 @@
       "company": "Charles River Associates",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 94,
+      "listings": 92,
       "matches": 5,
       "detail": ""
     },
@@ -1029,7 +1029,7 @@
       "company": "Coinbase",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 284,
+      "listings": 283,
       "matches": 3,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 818,
+      "listings": 816,
       "matches": 0,
       "detail": ""
     },
