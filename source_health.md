@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-09T22:28:14.274327+00:00
+Checked: 2026-11-09T23:09:40.171819+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -109,7 +109,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Ares Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Oaktree | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Warburg Pincus | none | unconfigured | 0 | 0 | No approved listing source configured |
-| General Atlantic | greenhouse | ok | 14 | 0 |  |
+| General Atlantic | greenhouse | ok | 13 | 0 |  |
 | Insight Partners | none | unconfigured | 0 | 0 | No approved listing source configured |
 | TPG | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Vista Equity Partners | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -138,12 +138,12 @@ OK means the configured board returned postings; an employer may also post on an
 | Robinhood | greenhouse | ok | 154 | 0 |  |
 | Coinbase | greenhouse | ok | 284 | 3 |  |
 | Datadog | greenhouse | ok | 400 | 0 |  |
-| Snowflake | ashby | ok | 369 | 0 |  |
-| Databricks | greenhouse | ok | 916 | 2 |  |
+| Snowflake | ashby | ok | 368 | 0 |  |
+| Databricks | greenhouse | ok | 915 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 673 | 0 |  |
-| OpenAI | ashby | ok | 814 | 0 |  |
+| Anthropic | greenhouse | ok | 671 | 0 |  |
+| OpenAI | ashby | ok | 818 | 0 |  |
 | Perplexity | ashby | ok | 136 | 3 |  |
 | Scale AI | greenhouse | ok | 170 | 1 |  |
 | Cohere | ashby | ok | 127 | 0 |  |
@@ -191,7 +191,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Klook | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Tripadvisor | greenhouse | ok | 7 | 0 |  |
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
-| NerdWallet | ashby | ok | 27 | 0 |  |
+| NerdWallet | ashby | ok | 29 | 0 |  |
 | Zocdoc | greenhouse | ok | 63 | 0 |  |
 | Vanta | ashby | ok | 81 | 0 |  |
 | Carta | greenhouse | ok | 78 | 0 |  |

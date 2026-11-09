@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-09T22:28:14.274327+00:00",
+  "checked_at_utc": "2026-11-09T23:09:40.171819+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -813,7 +813,7 @@
       "company": "General Atlantic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 14,
+      "listings": 13,
       "matches": 0,
       "detail": ""
     },
@@ -1045,7 +1045,7 @@
       "company": "Snowflake",
       "source": "ashby",
       "status": "ok",
-      "listings": 369,
+      "listings": 368,
       "matches": 0,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 916,
+      "listings": 915,
       "matches": 2,
       "detail": ""
     },
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 673,
+      "listings": 671,
       "matches": 0,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 814,
+      "listings": 818,
       "matches": 0,
       "detail": ""
     },
@@ -1469,7 +1469,7 @@
       "company": "NerdWallet",
       "source": "ashby",
       "status": "ok",
-      "listings": 27,
+      "listings": 29,
       "matches": 0,
       "detail": ""
     },
