@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-14T18:13:45.697869+00:00",
+  "checked_at_utc": "2026-11-14T22:33:31.909151+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -157,7 +157,7 @@
       "company": "Charles River Associates",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 85,
+      "listings": 86,
       "matches": 3,
       "detail": ""
     },
@@ -581,7 +581,7 @@
       "company": "Man Group",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 66,
+      "listings": 67,
       "matches": 2,
       "detail": ""
     },
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 669,
+      "listings": 670,
       "matches": 0,
       "detail": ""
     },

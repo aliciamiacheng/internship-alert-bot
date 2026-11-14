@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-14T18:13:45.697869+00:00
+Checked: 2026-11-14T22:33:31.909151+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -27,7 +27,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Altman Solon | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Analysis Group | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Cornerstone Research | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Charles River Associates | greenhouse | ok | 85 | 3 |  |
+| Charles River Associates | greenhouse | ok | 86 | 3 |  |
 | NERA Economic Consulting | none | unconfigured | 0 | 0 | No approved listing source configured |
 | ZS Associates | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Simon-Kucher | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -80,7 +80,7 @@ OK means the configured board returned postings; an employer may also post on an
 | AQR Capital Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Balyasny Asset Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Millennium | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Man Group | greenhouse | ok | 66 | 2 |  |
+| Man Group | greenhouse | ok | 67 | 2 |  |
 | Marshall Wace | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Brevan Howard | none | unconfigured | 0 | 0 | No approved listing source configured |
 | ExodusPoint | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -142,7 +142,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Databricks | greenhouse | ok | 896 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 669 | 0 |  |
+| Anthropic | greenhouse | ok | 670 | 0 |  |
 | OpenAI | ashby | ok | 839 | 0 |  |
 | Perplexity | ashby | ok | 141 | 2 |  |
 | Scale AI | greenhouse | ok | 170 | 1 |  |
