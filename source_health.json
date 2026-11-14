@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-14T06:37:58.337326+00:00",
+  "checked_at_utc": "2026-11-14T18:13:45.697869+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 670,
+      "listings": 669,
       "matches": 0,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 838,
+      "listings": 839,
       "matches": 0,
       "detail": ""
     },
@@ -1325,7 +1325,7 @@
       "company": "Intercom",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 114,
+      "listings": 115,
       "matches": 0,
       "detail": ""
     },

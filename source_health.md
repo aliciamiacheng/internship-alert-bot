@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-14T06:37:58.337326+00:00
+Checked: 2026-11-14T18:13:45.697869+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -142,8 +142,8 @@ OK means the configured board returned postings; an employer may also post on an
 | Databricks | greenhouse | ok | 896 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 670 | 0 |  |
-| OpenAI | ashby | ok | 838 | 0 |  |
+| Anthropic | greenhouse | ok | 669 | 0 |  |
+| OpenAI | ashby | ok | 839 | 0 |  |
 | Perplexity | ashby | ok | 141 | 2 |  |
 | Scale AI | greenhouse | ok | 170 | 1 |  |
 | Cohere | ashby | ok | 121 | 0 |  |
@@ -173,7 +173,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Miro | ashby | ok | 12 | 0 |  |
 | Amplitude | ashby | ok | 48 | 0 |  |
 | Mixpanel | greenhouse | ok | 41 | 0 |  |
-| Intercom | greenhouse | ok | 114 | 0 |  |
+| Intercom | greenhouse | ok | 115 | 0 |  |
 | PostHog | ashby | ok | 10 | 0 |  |
 | Lattice | greenhouse | ok | 4 | 0 |  |
 | Asana | greenhouse | ok | 109 | 0 |  |
