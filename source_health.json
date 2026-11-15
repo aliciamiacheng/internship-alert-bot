@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-14T22:33:31.909151+00:00",
+  "checked_at_utc": "2026-11-15T06:44:59.222550+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1005,7 +1005,7 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 786,
+      "listings": 785,
       "matches": 2,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 896,
+      "listings": 895,
       "matches": 2,
       "detail": ""
     },
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 670,
+      "listings": 669,
       "matches": 0,
       "detail": ""
     },
@@ -1189,7 +1189,7 @@
       "company": "Notion",
       "source": "ashby",
       "status": "ok",
-      "listings": 166,
+      "listings": 165,
       "matches": 0,
       "detail": ""
     },
