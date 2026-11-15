@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-15T06:44:59.222550+00:00",
+  "checked_at_utc": "2026-11-15T18:56:28.221932+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -997,7 +997,7 @@
       "company": "Airbnb",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 214,
+      "listings": 213,
       "matches": 0,
       "detail": ""
     },
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 669,
+      "listings": 667,
       "matches": 0,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 839,
+      "listings": 837,
       "matches": 0,
       "detail": ""
     },
@@ -1277,7 +1277,7 @@
       "company": "Ashby",
       "source": "ashby",
       "status": "ok",
-      "listings": 76,
+      "listings": 77,
       "matches": 0,
       "detail": ""
     },
