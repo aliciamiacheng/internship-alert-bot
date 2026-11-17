@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-16T23:01:47.975645+00:00
+Checked: 2026-11-17T08:03:39.273262+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -89,9 +89,9 @@ OK means the configured board returned postings; an employer may also post on an
 | Squarepoint | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Qube Research & Technologies | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Optiver | none | unconfigured | 0 | 0 | No approved listing source configured |
-| IMC | greenhouse | ok | 156 | 5 |  |
+| IMC | greenhouse | ok | 155 | 5 |  |
 | Hudson River Trading | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Jump Trading | greenhouse | ok | 91 | 4 |  |
+| Jump Trading | greenhouse | ok | 89 | 4 |  |
 | DRW | none | unconfigured | 0 | 0 | No approved listing source configured |
 | SIG | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Virtu Financial | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -133,33 +133,33 @@ OK means the configured board returned postings; an employer may also post on an
 | Apple | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Uber | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Airbnb | greenhouse | ok | 207 | 0 |  |
-| Stripe | greenhouse | ok | 790 | 2 |  |
-| Block | greenhouse | ok | 184 | 0 |  |
+| Stripe | greenhouse | ok | 792 | 2 |  |
+| Block | greenhouse | ok | 185 | 0 |  |
 | Robinhood | greenhouse | ok | 166 | 0 |  |
-| Coinbase | greenhouse | ok | 262 | 3 |  |
+| Coinbase | greenhouse | ok | 260 | 3 |  |
 | Datadog | greenhouse | ok | 382 | 0 |  |
 | Snowflake | ashby | ok | 374 | 0 |  |
 | Databricks | greenhouse | ok | 891 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 659 | 0 |  |
-| OpenAI | ashby | ok | 834 | 0 |  |
-| Perplexity | ashby | ok | 144 | 2 |  |
+| Anthropic | greenhouse | ok | 660 | 0 |  |
+| OpenAI | ashby | ok | 841 | 0 |  |
+| Perplexity | ashby | ok | 147 | 2 |  |
 | Scale AI | greenhouse | ok | 169 | 1 |  |
-| Cohere | ashby | ok | 121 | 0 |  |
+| Cohere | ashby | ok | 124 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Hugging Face | none | unconfigured | 0 | 0 | No approved listing source configured |
-| xAI | greenhouse | ok | 297 | 2 |  |
+| xAI | greenhouse | ok | 302 | 2 |  |
 | Applied Intuition | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Anduril | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Ramp | ashby | ok | 178 | 1 |  |
+| Ramp | ashby | ok | 179 | 1 |  |
 | Brex | greenhouse | ok | 277 | 0 |  |
 | Rippling | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Figma | greenhouse | ok | 140 | 0 |  |
-| Notion | ashby | ok | 165 | 0 |  |
+| Notion | ashby | ok | 164 | 0 |  |
 | Canva | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Plaid | ashby | ok | 141 | 0 |  |
-| Mercury | greenhouse | ok | 78 | 0 |  |
+| Plaid | ashby | ok | 140 | 0 |  |
+| Mercury | greenhouse | ok | 76 | 0 |  |
 | Deel | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Vercel | greenhouse | ok | 87 | 0 |  |
 | Duolingo | greenhouse | ok | 59 | 0 |  |
@@ -180,9 +180,9 @@ OK means the configured board returned postings; an employer may also post on an
 | Monday.com | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Check | ashby | ok | 12 | 0 |  |
 | Taktile | ashby | ok | 38 | 0 |  |
-| Omnea | ashby | ok | 63 | 0 |  |
+| Omnea | ashby | ok | 62 | 0 |  |
 | Gradient Labs | ashby | ok | 2 | 0 |  |
-| Gusto | greenhouse | ok | 76 | 0 |  |
+| Gusto | greenhouse | ok | 78 | 0 |  |
 | Chime | greenhouse | ok | 74 | 0 |  |
 | N26 | greenhouse | ok | 28 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |
