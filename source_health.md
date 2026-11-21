@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-21T07:20:36.576074+00:00
+Checked: 2026-11-21T19:25:16.054524+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -98,7 +98,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Akuna Capital | greenhouse | ok | 33 | 1 |  |
 | Five Rings | greenhouse | ok | 21 | 1 |  |
 | Belvedere Trading | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Flow Traders | greenhouse | ok | 42 | 2 |  |
+| Flow Traders | greenhouse | ok | 41 | 2 |  |
 | BP Trading & Shipping | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Blackstone | none | unconfigured | 0 | 0 | No approved listing source configured |
 | KKR | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -139,10 +139,10 @@ OK means the configured board returned postings; an employer may also post on an
 | Coinbase | greenhouse | ok | 252 | 3 |  |
 | Datadog | greenhouse | ok | 382 | 0 |  |
 | Snowflake | ashby | ok | 374 | 0 |  |
-| Databricks | greenhouse | ok | 897 | 2 |  |
+| Databricks | greenhouse | ok | 895 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 633 | 0 |  |
+| Anthropic | greenhouse | ok | 635 | 0 |  |
 | OpenAI | ashby | ok | 852 | 0 |  |
 | Perplexity | ashby | ok | 151 | 2 |  |
 | Scale AI | greenhouse | ok | 169 | 1 |  |

@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-21T07:20:36.576074+00:00",
+  "checked_at_utc": "2026-11-21T19:25:16.054524+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -725,7 +725,7 @@
       "company": "Flow Traders",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 42,
+      "listings": 41,
       "matches": 2,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 897,
+      "listings": 895,
       "matches": 2,
       "detail": ""
     },
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 633,
+      "listings": 635,
       "matches": 0,
       "detail": ""
     },
