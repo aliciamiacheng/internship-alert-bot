@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-22T07:01:11.529262+00:00
+Checked: 2026-11-22T19:48:07.405251+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -80,7 +80,7 @@ OK means the configured board returned postings; an employer may also post on an
 | AQR Capital Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Balyasny Asset Management | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Millennium | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Man Group | greenhouse | ok | 67 | 2 |  |
+| Man Group | greenhouse | ok | 66 | 2 |  |
 | Marshall Wace | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Brevan Howard | none | unconfigured | 0 | 0 | No approved listing source configured |
 | ExodusPoint | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -139,10 +139,10 @@ OK means the configured board returned postings; an employer may also post on an
 | Coinbase | greenhouse | ok | 252 | 3 |  |
 | Datadog | greenhouse | ok | 382 | 0 |  |
 | Snowflake | ashby | ok | 374 | 0 |  |
-| Databricks | greenhouse | ok | 895 | 2 |  |
+| Databricks | greenhouse | ok | 893 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 635 | 0 |  |
+| Anthropic | greenhouse | ok | 636 | 0 |  |
 | OpenAI | ashby | ok | 852 | 0 |  |
 | Perplexity | ashby | ok | 151 | 2 |  |
 | Scale AI | greenhouse | ok | 166 | 1 |  |
@@ -165,7 +165,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Duolingo | greenhouse | ok | 54 | 0 |  |
 | Atlassian | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Wise | greenhouse | ok | 18 | 0 |  |
-| Monzo | greenhouse | ok | 59 | 0 |  |
+| Monzo | greenhouse | ok | 58 | 0 |  |
 | Linear | ashby | ok | 32 | 0 |  |
 | Ashby | ashby | ok | 76 | 0 |  |
 | Webflow | greenhouse | empty | 0 | 0 |  |
