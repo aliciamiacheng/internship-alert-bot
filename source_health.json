@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-21T19:25:16.054524+00:00",
+  "checked_at_utc": "2026-11-22T07:01:11.529262+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1005,7 +1005,7 @@
       "company": "Stripe",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 778,
+      "listings": 777,
       "matches": 2,
       "detail": ""
     },
@@ -1101,7 +1101,7 @@
       "company": "Scale AI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 169,
+      "listings": 166,
       "matches": 1,
       "detail": ""
     },
