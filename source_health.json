@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-23T23:59:46.326847+00:00",
+  "checked_at_utc": "2026-11-24T01:13:22.838039+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1029,7 +1029,7 @@
       "company": "Coinbase",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 249,
+      "listings": 250,
       "matches": 3,
       "detail": ""
     },
@@ -1053,7 +1053,7 @@
       "company": "Databricks",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 882,
+      "listings": 883,
       "matches": 2,
       "detail": ""
     },
@@ -1077,7 +1077,7 @@
       "company": "Anthropic",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 632,
+      "listings": 631,
       "matches": 0,
       "detail": ""
     },
@@ -1085,7 +1085,7 @@
       "company": "OpenAI",
       "source": "ashby",
       "status": "ok",
-      "listings": 854,
+      "listings": 853,
       "matches": 0,
       "detail": ""
     },
@@ -1101,7 +1101,7 @@
       "company": "Scale AI",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 161,
+      "listings": 160,
       "matches": 1,
       "detail": ""
     },
@@ -1229,7 +1229,7 @@
       "company": "Vercel",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 84,
+      "listings": 85,
       "matches": 0,
       "detail": ""
     },
@@ -1269,7 +1269,7 @@
       "company": "Linear",
       "source": "ashby",
       "status": "ok",
-      "listings": 31,
+      "listings": 30,
       "matches": 0,
       "detail": ""
     },
@@ -1485,7 +1485,7 @@
       "company": "Vanta",
       "source": "ashby",
       "status": "ok",
-      "listings": 68,
+      "listings": 67,
       "matches": 0,
       "detail": ""
     },

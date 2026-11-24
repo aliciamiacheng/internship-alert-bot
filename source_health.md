@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-23T23:59:46.326847+00:00
+Checked: 2026-11-24T01:13:22.838039+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -136,16 +136,16 @@ OK means the configured board returned postings; an employer may also post on an
 | Stripe | greenhouse | ok | 770 | 2 |  |
 | Block | greenhouse | ok | 184 | 0 |  |
 | Robinhood | greenhouse | ok | 160 | 0 |  |
-| Coinbase | greenhouse | ok | 249 | 3 |  |
+| Coinbase | greenhouse | ok | 250 | 3 |  |
 | Datadog | greenhouse | ok | 384 | 0 |  |
 | Snowflake | ashby | ok | 373 | 0 |  |
-| Databricks | greenhouse | ok | 882 | 2 |  |
+| Databricks | greenhouse | ok | 883 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NVIDIA | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Anthropic | greenhouse | ok | 632 | 0 |  |
-| OpenAI | ashby | ok | 854 | 0 |  |
+| Anthropic | greenhouse | ok | 631 | 0 |  |
+| OpenAI | ashby | ok | 853 | 0 |  |
 | Perplexity | ashby | ok | 151 | 2 |  |
-| Scale AI | greenhouse | ok | 161 | 1 |  |
+| Scale AI | greenhouse | ok | 160 | 1 |  |
 | Cohere | ashby | ok | 125 | 0 |  |
 | Mistral AI | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Hugging Face | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -161,12 +161,12 @@ OK means the configured board returned postings; an employer may also post on an
 | Plaid | ashby | ok | 145 | 0 |  |
 | Mercury | greenhouse | ok | 68 | 0 |  |
 | Deel | none | unconfigured | 0 | 0 | No approved listing source configured |
-| Vercel | greenhouse | ok | 84 | 0 |  |
+| Vercel | greenhouse | ok | 85 | 0 |  |
 | Duolingo | greenhouse | ok | 53 | 0 |  |
 | Atlassian | none | unconfigured | 0 | 0 | No approved listing source configured |
 | Wise | greenhouse | ok | 18 | 0 |  |
 | Monzo | greenhouse | ok | 53 | 0 |  |
-| Linear | ashby | ok | 31 | 0 |  |
+| Linear | ashby | ok | 30 | 0 |  |
 | Ashby | ashby | ok | 78 | 0 |  |
 | Webflow | greenhouse | empty | 0 | 0 |  |
 | Airtable | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -193,6 +193,6 @@ OK means the configured board returned postings; an employer may also post on an
 | Grab | none | unconfigured | 0 | 0 | No approved listing source configured |
 | NerdWallet | ashby | ok | 27 | 0 |  |
 | Zocdoc | greenhouse | ok | 64 | 0 |  |
-| Vanta | ashby | ok | 68 | 0 |  |
+| Vanta | ashby | ok | 67 | 0 |  |
 | Carta | greenhouse | ok | 80 | 0 |  |
 | Klarna | none | unconfigured | 0 | 0 | No approved listing source configured |
