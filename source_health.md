@@ -1,6 +1,6 @@
 # Internship source verification
 
-Checked: 2026-11-27T21:25:41.277539+00:00
+Checked: 2026-11-28T07:58:50.807616+00:00
 
 empty: 1 | ok: 58 | unconfigured: 129
 
@@ -135,9 +135,9 @@ OK means the configured board returned postings; an employer may also post on an
 | Airbnb | greenhouse | ok | 200 | 0 |  |
 | Stripe | greenhouse | ok | 771 | 2 |  |
 | Block | greenhouse | ok | 183 | 0 |  |
-| Robinhood | greenhouse | ok | 161 | 0 |  |
+| Robinhood | greenhouse | ok | 162 | 0 |  |
 | Coinbase | greenhouse | ok | 256 | 3 |  |
-| Datadog | greenhouse | ok | 390 | 0 |  |
+| Datadog | greenhouse | ok | 392 | 0 |  |
 | Snowflake | ashby | ok | 380 | 1 |  |
 | Databricks | greenhouse | ok | 889 | 2 |  |
 | Palantir | none | unconfigured | 0 | 0 | No approved listing source configured |
@@ -182,7 +182,7 @@ OK means the configured board returned postings; an employer may also post on an
 | Taktile | ashby | ok | 39 | 0 |  |
 | Omnea | ashby | ok | 67 | 0 |  |
 | Gradient Labs | ashby | ok | 1 | 0 |  |
-| Gusto | greenhouse | ok | 86 | 0 |  |
+| Gusto | greenhouse | ok | 85 | 0 |  |
 | Chime | greenhouse | ok | 76 | 0 |  |
 | N26 | greenhouse | ok | 27 | 0 |  |
 | Revolut | none | unconfigured | 0 | 0 | No approved listing source configured |

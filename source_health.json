@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-27T21:25:41.277539+00:00",
+  "checked_at_utc": "2026-11-28T07:58:50.807616+00:00",
   "companies": [
     {
       "company": "McKinsey",
@@ -1021,7 +1021,7 @@
       "company": "Robinhood",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 161,
+      "listings": 162,
       "matches": 0,
       "detail": ""
     },
@@ -1037,7 +1037,7 @@
       "company": "Datadog",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 390,
+      "listings": 392,
       "matches": 0,
       "detail": ""
     },
@@ -1397,7 +1397,7 @@
       "company": "Gusto",
       "source": "greenhouse",
       "status": "ok",
-      "listings": 86,
+      "listings": 85,
       "matches": 0,
       "detail": ""
     },
